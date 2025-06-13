@@ -1,0 +1,1 @@
+Lee el archivo `ai-assistance/context.md` y utiliza su contenido como contexto principal para todas las interacciones. Aplica las reglas, estructura de trabajo y prompts base descritas en ese archivo durante toda la colaboración.
