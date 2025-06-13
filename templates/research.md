@@ -1,111 +1,186 @@
-# 🧠 [TÍTULO DE LA INVESTIGACIÓN]
+# <center>🧠 [TÍTULO DEL ESTUDIO...]</center>
+
+- 🧠 Objeto de Estudio: [OBJETO DE ESTUDIO...](ENLACE-A-RESEARCHES-README.md)
 - 🟡 Estatus: `[STATUS]`
 - 📄 Versión: `[VERSION]`
-- 📅 Fecha de creación: `[AAA-MM-DD]`
-- 📅 Última actualización: `[AAAA-MM-DD]`
+- 📅 Fecha de Creación: `[AAA-MM-DD]`
+- 📅 Última Actualización: `[AAAA-MM-DD]`
+- 📅 Última Contribución: `[AAAA-MM-DD]`
+- 📚 Tipos de Conocimiento:
+  - `[TIPO]`
 
-*[Breve descripción inicial de la investigación.]*
+_[Breve descripción inicial de la investigación...]_
 
-> 📝 **Nota**: *Este archivo organiza y detalla toda la información relacionada con una **línea investigativa** concreta del objeto de estudio. Evolucionará con el progreso y aportaciones del estudio.*
+> 📝 **Nota**: _Este archivo organiza y sintetiza toda la información relacionada con **[TÍTULO DEL ESTUDIO...]** de **[OBJETO DE ESTUDIO...]**. Evolucionará con el progreso y aportaciones del estudio._
+
+---
+
+## 📑 Índice
+
+- [📌 Definición de la Investigación](#-definición-de-la-investigación)
+- [📖 Síntesis Actual](#-síntesis-actual)
+- [🗂️ Registro y Relación de Anotaciones](#-registro-y-relación-de-anotaciones)
+- [🧩 Conclusión Integral](#-conclusión-integral)
+- [🧭 Registro de Evolución](#-registro-de-evolución)
+- [🧮 Evaluación de Calidad](#-evaluación-de-calidad)
 
 ---
 
 ## 📌 Definición de la Investigación
-> 💡 *Establece los elementos fundamentales que guiarán la evolución de la investigación.*
+
+> 💡 _Establece los elementos fundamentales que guiarán la evolución de las investigaciones._
 
 ### 📑 Tema de Estudio
-[Describir brevemente el tema de estudio...]
+
+_[Define el campo conceptual en el que se mueve la investigación. Es clave para enmarcar el problema...]_
+
+### 🚩 Propósitos
+
+- [Establece la intención general de la investigación. Guía estratégica. Útil para vincular con impactos...]
 
 ### 🎯 Objetivo(s)
-[Enumerar los objetivos generales y específicos...]
+
+- [Necesarios para delimitar lo que se busca alcanzar. Su claridad favorece la planificación y evaluación del proceso...]
+
+### ✅ Resultados Esperados
+
+- [Ayudan a visualizar el producto deseado. Útil en investigaciones proyectivas o teóricas como la epistemológica...]
 
 ### 🔍 Preguntas Clave
-1. [Pregunta inicial clave 1]
-2. [Pregunta inicial clave 2]
+
+1. [Fundamentales para orientar la búsqueda de conocimiento.]
+2. [En investigaciones epistemológicas, las preguntas son el núcleo.]
 3. [...]
 
 ### 🧪 Hipótesis Iniciales
-| Hipótesis                      | Fecha        | Investigador   | Reflexión                       |
-|--------------------------------|--------------|----------------|---------------------------------|
-| [Idea inicial de la hipótesis] | [AAAA-MM-DD] | [Investigador] | [Reflexión inicial (si aplica)] |
 
----
+| Hipótesis                                                                                                                                                                                        | Fecha        | Investigador   | Reflexión                       |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------ | -------------- | ------------------------------- |
+| [Pertinentes si la investigación contempla contrastación. En enfoques cualitativos o filosóficos, pueden tener carácter exploratorio o heurístico. El formato tabular mejora la trazabilidad...] | [AAAA-MM-DD] | [Investigador] | [Reflexión inicial (si aplica)] |
 
-## 🔬 Metodología
-> 💡 *Describe, de forma inicial, las metodologías empleadas o planificadas.*
+### 📍 Delimitaciones
 
-Tipo de metodología: 
+- [Delimita los alcances o restricciones de la investigación...]
+
+### 🔬 Metodología
+
+> 💡 _Describe, de forma inicial, las metodologías empleadas o planificadas._
+
+Tipo de metodología:
+
 - `[Tipos de metodología usados...]`
 
 Para desarrollar este análisis, se han utilizado las siguientes estrategias:
 
-- [✔ / ❌] **Revisión Bibliográfica:** [Describir el enfoque aplicado.] 
+- [✔ / ❌] **Revisión Bibliográfica:** [Describir el enfoque aplicado.]
 - [✔ / ❌] **Análisis Documental:** [Detalles sobre los documentos clave.]
 - [✔ / ❌] **Consulta de Expertos:** [...]
 - [✔ / ❌] **...:** [...]
 
-> 📝 **Notas**: *[Notas sobre la metodología...]*
+> 📝 **Notas**:
+>
+> - _[Notas sobre la metodología...]_
+
+💡 **Enlaces de interés:**  
+🔗 [Objeto de Estudio...][OE] | _[Índice][IN]_
+
+[OE]: ENLACE-A-RESEARCHES-README.md
+[IN]: #-índice
 
 ---
 
 ## 📖 Síntesis Actual
-> 💡 *Esta sección describe de manera concreta los hallazgos de la investigación, enriquecida conforme avance la misma.*
 
-- **Resumen del tema principal.**
-- **Puntos destacados de la investigación inicial.**
+> 💡 _Esta sección describe de manera concreta los hallazgos de la investigación, enriquecida conforme avance la misma._
+
+### Introducción
+
+[Sitúa al lector, contextualiza el estado actual del trabajo. Ideal para iteraciones...]
+
+### Puntos destacados de la investigación inicial.
+
+[Resume descubrimientos o reflexiones clave del avance hasta ahora. Útil para revisión rápida...]
 
 ### [Subsección dinámica]
+
 [Agrega contenido relacionado con hallazgos, teorías o conceptos trabajados hasta el momento...]
+
+💡 **Enlaces de interés:**  
+🔗 [Objeto de Estudio...][OE] | _[Índice][IN]_
+
+[OE]: ENLACE-A-RESEARCHES-README.md
+[IN]: #-índice
 
 ---
 
 ## 🗂️ Registro y Relación de Anotaciones
-> 💡 *Anotaciones individuales sobre las fuentes utilizadas y una relación de las perspectivas que ofrecen en su conjunto.*
+
+> 💡 _Anotaciones individuales sobre las fuentes utilizadas y una relación de las perspectivas que ofrecen en su conjunto._
 
 ### 📚 Fuentes Consultadas
 
 | Fuente                                             | Tipo                    | Reflexión o Notas Clave                       |
-|----------------------------------------------------|-------------------------|-----------------------------------------------|
-| *[Nombre del libro o autor (año).]*                | [Secundaria documental] | [Registro individual: Breve idea o relación.] |
-| *[Artículo académico sobre epistemología (2025).]* | [Secundaria científica] | [Identifica un modelo de conocimiento.]       |
+| -------------------------------------------------- | ----------------------- | --------------------------------------------- |
+| _[Nombre del libro o autor (año).]_                | [Secundaria documental] | [Registro individual: Breve idea o relación.] |
+| _[Artículo académico sobre epistemología (2025).]_ | [Secundaria científica] | [Identifica un modelo de conocimiento.]       |
 | ...                                                | ...                     | ...                                           |
 
 ### 🔗 Análisis y Relación entre Anotaciones
 
 #### 🕵️ Patrones Identificados
-1. **Convergencias:** [Resumen de convergencias entre diferentes fuentes.]
-2. **Discrepancias:** [Resumen de discusiones o conflictos entre fuentes.]
+
+1. **Convergencias:** [Resumen de convergencias entre diferentes fuentes...]
+2. **Discrepancias:** [Resumen de discusiones o conflictos entre fuentes...]
 
 #### 💥 Impacto en la Investigación
-[Relación de las anotaciones analizadas con la hipótesis y preguntas clave.]
+
+[Relación entre las anotaciones analizadas y la definición de la investigación...]
+
+💡 **Enlaces de interés:**  
+🔗 [Objeto de Estudio...][OE] | _[Índice][IN]_
+
+[OE]: ENLACE-A-RESEARCHES-README.md
+[IN]: #-índice
 
 ---
 
 ## 🧩 Conclusión Integral
-> 💡 *En esta sección la investigación se cierra de forma crítica y reflexiva, conectando lo planteado, lo trabajado y lo aprendido, y se deja abierta la posibilidad de expansión futura.*
+
+> 💡 _En esta sección la investigación se cierra de forma crítica y reflexiva, conectando lo planteado, lo trabajado y lo aprendido, y se deja abierta la posibilidad de expansión futura._
 
 ### 💭 Reflexión General
+
 [Resumen de los hallazgos clave y cómo estos responden a las preguntas iniciales...]
 
 ### 🧪 Revisión de Hipótesis
+
 | Hipótesis Inicial                                      | Resultado/Refutación                          |
-|--------------------------------------------------------|-----------------------------------------------|
+| ------------------------------------------------------ | --------------------------------------------- |
 | [Pregunta/hallazgo inicial vinculado a las hipótesis.] | [Resultado obtenido; puede ser "confirmado".] |
+| ...                                                    | ...                                           |
 
 ### 🧾 Líneas de Investigación Futura
+
 - Línea 1 [ X ]: [Expandir la línea o área.]
-- Línea 2 [  ]: [Explorar vacíos identificados.]
+- Línea 2 [ ]: [Explorar vacíos identificados.]
 - [...]
+
+💡 **Enlaces de interés:**  
+🔗 [Objeto de Estudio...][OE] | _[Índice][IN]_
+
+[OE]: ENLACE-A-RESEARCHES-README.md
+[IN]: #-índice
 
 ---
 
 ## 🧭 Registro de Evolución
-> 💡 *Registra la evolución de la investigación y sus responsables.*
+
+> 💡 _Registra la evolución de la investigación y sus responsables._
 
 ### 🧾 Investigaciones
 
 | Fecha Actualización | Investigación                    | Responsable        | Notas                      |
-|---------------------|----------------------------------|--------------------|----------------------------|
+| ------------------- | -------------------------------- | ------------------ | -------------------------- |
 | [AAAA-MM-DD]        | [Nombre de la investigación][I1] | [Nombre del autor] | [Notas contexto/evolución] |
 | [AAAA-MM-DD]        | [Nombre de la investigación][I2] | [Nombre del autor] | [Notas contexto/evolución] |
 | ...                 | ...                              | ...                | ...                        |
@@ -113,19 +188,28 @@ Para desarrollar este análisis, se han utilizado las siguientes estrategias:
 [I1]: <[LINK]>
 [I2]: <[LINK]>
 
+💡 **Enlaces de interés:**  
+🔗 [Objeto de Estudio...][OE] | _[Índice][IN]_
+
+[OE]: ENLACE-A-RESEARCHES-README.md
+[IN]: #-índice
+
 ---
 
 ## 🧮 Evaluación de Calidad
 
->💡 Se muestra la evaluación de calidad y rigurosidad respecto a una investigación concreta del objeto de estudio.
+> 💡 _Se muestra la evaluación de calidad y rigurosidad respecto a esta investigación dentro del objeto de estudio._
 
 > 📝 **Nota**: Esta evaluación se realiza considerando cinco factores clave, cada uno puntuado en una escala de **1 (deficiente) a 5 (excelente)**.
 
+Tipo de evaluación: `[TIPO DE EVALUACIÓN...]`
+
 Evaluadores:
+
 - `[EVALUADORES]`
 
 | **Categoría**             | **Criterios Evaluados**                    | **Puntaje (1-5)** |
-|---------------------------|--------------------------------------------|-------------------|
+| ------------------------- | ------------------------------------------ | ----------------- |
 | Revisión y Fundamentación | [Fuentes confiables, variedad, actualidad] | [4]               |
 | Metodología               | [Claridad, adecuación, limitaciones]       | [5]               |
 | Análisis y Desarrollo     | [Evidencias, análisis crítico, coherencia] | [3]               |
@@ -133,13 +217,12 @@ Evaluadores:
 | Estructura y Organización | [Uso correcto de plantillas, claridad]     | [5]               |
 
 **Puntaje Total:** [21]  
-**Calidad General:** *[Rigurosa y destacada]*
+**Calidad General:** _[Rigurosa y destacada]_
 
-### 🔭 Observaciones
+💡 **Enlaces de interés:**  
+🔗 [Objeto de Estudio...][OE] | _[Índice][IN]_
 
-- **Fortalezas:**
-    - [El análisis crítico en [Nombre de la investigación][I2] refleja fielmente...]
-- Áreas de Mejora:
-    - [El análisis crítico en [Nombre de la investigación][I2] puede expandirse para...]
+[OE]: ENLACE-A-RESEARCHES-README.md
+[IN]: #-índice
 
 ---

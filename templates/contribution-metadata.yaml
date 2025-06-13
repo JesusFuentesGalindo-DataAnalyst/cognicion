@@ -1,17 +1,13 @@
-title: "[TITLE]"                                           # Título de la línea investigativa (p. ej. "El Conocimiento")
-creation_date: "[CREATION_DATE]"                           # Fecha de creación de la línea investigativa (AAAA-MM-DD).
-last_contribution_date: "[LAST_CONTRIBUTION_DATE]"         # Fecha de la última aportación (AAAA-MM-DD).
-principal_researchers: "[PRINCIPAL_RESEARCHERS]"           # Lista de los investigadores líderes del segmento.
-collaborators: "[COLLABORATORS]"                           # Lista de colaboradores adicionales.
-status: "[STATUS]"                                         # Estado de la línea investigativa: activa, en desarrollo, refutada, obsoleta o borrador.
-methodology_types: "[METHODOLOGY_TYPES]"                   # Lista de los tipos de metodología de la investigación: cualitativa, documental, exploratoria, etc.
-version: "[VERSION]"                                       # Versión de la investigación: MAJOR.MINOR.PATCH
-source_list: "[SOURCE_LIST]"                               # lista de referencias relacionadas.
-source_types: "[SOURCE_TYPE]"                              # Lista de tipos de fuente p. ej. Primaria, secundaria, revisión documental.
-knowledge_types: "[KNOWLEDGE_TYPES]"                       # Lista de conocimiento generado Científico, filosófico, no científico, etc.
-related_researches: "[RELATED_RESEARCHES]"                 # Lista de investigaciones relacionadas.
-cross_references: "[CROSS_REFERENCES]"                     # Lista de referencias a otras líneas investigativas en otros objetos de estudio.
-quality: "[QUALITY]"                                       # Muestra la evaluación de calidad y rigurosidad respecto a la línea investigativa.
-commit_id: "[COMMIT_HASH]"                                 # Id de confirmación que se generó al añadir la línea de Investigación.
-branch_name: "[BRANCH_NAME]"                               # Nombre de la rama donde se integró la investigación.
-tags: "[TAGS]"                                             # Lista de palabras clave para permitir búsqueda semántica.
+author: '[AUTHOR]' # Nombre del autor de la contribución.
+evaluators: '[EVALUATORS]' # Lista de los evaluadores de rigurosidad y calidad.
+research_line: '[RESEARCH_LINE]' # Nombre de la línea de investigación que sigue.
+collaborators: '[COLLABORATORS]' # Lista de todos los que colaboraron en la contribución.
+creation_date: '[CREATION_DATE]' # Fecha de creación de la línea investigativa (AAAA-MM-DD).
+principal_source: '[PRINCIPAL_SOURCE]' # Nombre de la fuente principal.
+source_list: '[SOURCE_LIST]' # lista de referencias relacionadas.
+source_types: '[SOURCE_TYPE]' # Lista de tipos de fuente p. ej. Primaria, secundaria, revisión documental.
+knowledge_types: '[KNOWLEDGE_TYPES]' # Lista de conocimiento generado Científico, filosófico, no científico, etc.
+commit_id: '[COMMIT_HASH]' # Id de confirmación que se generó al añadir la línea de Investigación.
+branch_name: '[BRANCH_NAME]' # Nombre de la rama donde se integró la investigación.
+contribution_relation_type: '[CONTRIBUTION_RELATION_TYPE]' # Tipo de la relación que mantiene con otras contribuciones.
+contribution_relation: '[CONTRIBUTION_RELATION]' # ID de la contribución con la que mantiene relación.

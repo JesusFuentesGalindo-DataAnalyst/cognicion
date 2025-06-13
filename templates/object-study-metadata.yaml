@@ -1,15 +1,20 @@
-object_study: "[OBJECT_STUDY]"                             # Nombre o Título del objeto de estudio (p. ej. "El Conocimiento")
-description: "[DESCRIPTION]"                               # Breve descripción de la investigación, relacionada con el objeto de estudio.
-creation_date: "[CREATION_DATE]"                           # Fecha de creación del objeto de estudio (AAAA-MM-DD).
-last_update: "[LAST_UPDATE]"                               # Fecha de la última actualización del archivo (AAAA-MM-DD).
-principal_researchers: "[PRINCIPAL_RESEARCHERS]"           # Lista de los investigadores líderes del objeto de estudio.
-collaborators: "[COLLABORATORS]"                           # Lista de colaboradores adicionales.
-status: "[STATUS]"                                         # Estado de la investigación: activa, en desarrollo, refutada, obsoleta, en revisión, borrador.
-related_researches: "[RELATED_RESEARCHES_ID]"              # Lista de líneas investigativas dentro del objeto de estudio.
-cross_references: "[CROSS_REFERENCES]"                     # Lísta de referencias a otras líneas investigativas en otros objetos de estudio.
-total_researches: "[TOTAL_RESEARCHES]"                     # Total de investigaciones ligadas al objeto de estudio.
-commit_id: "[COMMIT_HASH]"                                 # Id de confirmación que se generó al añadir el objeto de estudio.
-branch_name: "[BRANCH_NAME]"                               # Nombre de la rama donde se integró el objeto de estudio.
-quality: "[QUALITY]"                                       # Muestra la evaluación global de calidad y rigurosidad respecto a la investigación del objeto de estudio.
-tags: "[TAGS]"                                             # Lista de palabras clave para permitir búsqueda semántica.
-version: "[VERSION]"                                       # Versión de la documentación: MAJOR.MINOR.PATCH
+object_study: '[OBJECT_STUDY]' # Nombre o Título del objeto de estudio (p. ej. "El Conocimiento")
+description: '[DESCRIPTION]' # Breve descripción de la investigación, relacionada con el objeto de estudio.
+creation_date: '[CREATION_DATE]' # Fecha de creación del objeto de estudio (AAAA-MM-DD).
+last_update: '[LAST_UPDATE]' # Fecha de la última actualización del archivo (AAAA-MM-DD).
+last_contribution_date: [LAST_CONTRIBUTION_DATE] # Fecha de la última contribución (AAAA-MM-DD).
+principal_researchers: '[PRINCIPAL_RESEARCHERS]' # Lista de los investigadores líderes del objeto de estudio.
+collaborators: '[COLLABORATORS]' # Lista de colaboradores adicionales.
+status: '[STATUS]' # Estado de la investigación: "borrador", "en desarrollo", "activo", "en revisión", "refutado", "obsoleto".
+version: '[VERSION]' # Versión de la documentación: MAJOR.MINOR.PATCH
+source_list: [SOURCE_LIST] # lista de fuentes y referencias relacionadas.
+source_types: [SOURCE_TYPES] # Lista de tipos de fuente p. ej. Primaria, secundaria, documentales.
+knowledge_type: [KNOWLEDGE_TYPE] # Lista de conocimiento generado, p. ej. Científico, filosófico, no científico, etc.
+related_researches: '[RELATED_RESEARCHES_ID]' # Lista de líneas investigativas dentro del objeto de estudio.
+cross_references: '[CROSS_REFERENCES]' # Lísta de referencias a otras líneas investigativas en otros objetos de estudio.
+total_researches: '[TOTAL_RESEARCHES]' # Total de investigaciones ligadas al objeto de estudio.
+evaluators: [EVALUATORS] # Lista de los evaluadores que han participado en la investigación.
+quality: '[QUALITY]' # Muestra la evaluación global de calidad y rigurosidad respecto a la investigación del objeto de estudio.
+commit_id: '[COMMIT_HASH]' # Id de confirmación que se generó al añadir el objeto de estudio.
+branch_name: '[BRANCH_NAME]' # Nombre de la rama donde se integró el objeto de estudio.
+tags: '[TAGS]' # Lista de palabras clave para permitir búsqueda semántica.
