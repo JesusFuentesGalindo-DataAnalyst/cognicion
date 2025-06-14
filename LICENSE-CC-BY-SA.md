@@ -22,8 +22,10 @@ Este documento se aplica a todos los contenidos **no funcionales** de este repos
 - Documentación educativa
 - Glosario de términos
 - Marco teórico
-- Textos explicativos en README.md
+- Textos explicativos en `README.md`
 - Archivos dentro de `/docs` y otras carpetas documentales
+
+---
 
 ## 📜 Términos de la CC BY-SA 4.0 (resumen no oficial)
 
@@ -52,11 +54,7 @@ Esto garantiza que el conocimiento siga siendo libre y accesible para tod@s.
 
 No puedes aplicar términos legales ni medidas tecnológicas que restrinjan legalmente a otras personas de hacer cualquier cosa que la licencia permita.
 
----
-
-## 📎 Enlace a la licencia completa
-
-Para consultar el texto legal completo de esta licencia:  
+📎 Para consultar el texto legal completo de esta licencia:  
 🔗 https://creativecommons.org/licenses/by-sa/4.0/
 
 ---
@@ -67,6 +65,5 @@ Este proyecto fue creado con la intención de **abrir caminos para que cualquier
 
 Al usar, adaptar o mejorar estos contenidos, ayudas a expandir una red de pensamiento colaborativo basada en la confianza, la claridad y la autonomía epistémica.
 
-Gracias por sumar a esta visión.
-
-— José de Jesús Fuentes Galindo (JFG) {AAA_Software}
+> 💡 _Gracias por construir conocimiento libre y con propósito_.
+> _— José de Jesús Fuentes Galindo (JFG) {AAA_Software}_
