@@ -1,37 +1,43 @@
----
-title: "metodo360"
-description: "Metodología estructurada para la documentación de investigaciones, análisis interdisciplinarios y reflexiones críticas."
-version: "0.1.0"
-last_updated: "2025-06-06"
-status: "Activo"
-documented_topics:
-  - "El Conocimiento"
-license: 
-  - "CC-BY-SA"
-  - "GPLv3"
-extended_docs: "docs/README.md"
----
-
 # 🧠 metodo360
 
-*Conocer con método · Crear con fundamento · Conectar con propósito*
+_Conocer con método · Crear con fundamento · Conectar con propósito_
 
-## 📚 Índice
+## 📑 Índice
 
-* [📌 Introducción](#-introducción)
-* [🎯 Objetivos y resultados](#-objetivos-y-resultados)
-* [🧑‍💻 Público objetivo](#-público-objetivo)
-* [🚀 Guía rápida para comenzar](#-guía-rápida-para-comenzar)
-* [📦 Estructura del repositorio](#-estructura-del-repositorio)
-* [📑 Índice de temas documentados](#-índice-de-temas-documentados)
-* [📌 Usos sugeridos](#-usos-sugeridos)
-* [📖 Documentación extendida (`/docs`)](#-documentación-extendida-docs)
-* [✨ Estado del proyecto y futuros desarrollos](#-estado-del-proyecto-y-futuros-desarrollos)
-* [🛠️ Cómo contribuir](#-cómo-contribuir)
-* [🔗 Referencias y recursos](#-referencias-y-recursos)
-* [🎯 Conclusión y beneficios](#-conclusión-y-beneficios)
-* [🧭 Principios que guían el desarrollo](#-principios-que-guían-el-desarrollo)
-* [🔄 Licencias](#-licencias)
+- [📌 Introducción](#-introducción)
+- [🎯 Objetivos y Resultados](#-objetivos-y-resultados)
+- [🧑‍💻 Público Objetivo](#-público-objetivo)
+- [🚀 Guía Rápida para Comenzar](#-guía-rápida-para-comenzar)
+- [📦 Estructura del Repositorio](#-estructura-del-repositorio)
+- [📑 Índice de Temas Documentados](#-índice-de-temas-documentados)
+- [📌 Usos Sugeridos](#-usos-sugeridos)
+- [✨ Estado del Proyecto y Futuros Desarrollos](#-estado-del-proyecto-y-futuros-desarrollos)
+- [🔗 Referencias y Recursos](#-referencias-y-recursos)
+- [🎯 Conclusión y Beneficios](#-conclusión-y-beneficios)
+- [🧭 Principios que Guían el Desarrollo](#-principios-que-guían-el-desarrollo)
+- [🔄 Licencias](#-licencias)
+
+[INDEX]: #-índice
+[LCCBYSA]: ./LICENSE-CC-BY-SA.md 'Licencia CC BY SA'
+[LGPL]: ./LICENSE-GPLv3.md 'Licencia GPLv3'
+[DOCS]: ./docs/README.md 'Documentación extendida'
+[CONTRIB]: ./CONTRIBUTING.md 'Cómo contribuir'
+[ASAI]: ./ai-assistance/README.md 'Asistente de IA'
+[PTT]: ./templates/README.md 'Plantillas de trabajo'
+[RESEARCH]: ./researches/README.md 'Investigaciones'
+[RESEARCHRS]: ./researchers/README.md 'Investigadores'
+[AUT]: ./scripts/README.md 'Scripts de automatización'
+[ELCON]: ./researches/el-conocimiento/README.md 'Estudio El Conocimiento'
+[GLOSS]: ./researches/glossary.md 'Glosario de las investigaciones'
+[CCGHSM360]: ./docs/ai-assistant-configuration-guide.md#-pasos-para-comenzar-con-github-copilot 'Configurar GitHub Copilot'
+[CCMCGPT]: ./docs/ai-assistant-configuration-guide.md#-uso-de-chatgpt 'Configurar ChatGPT'
+[CUGH]: https://docs.github.com/es 'Documentación oficial de GitHub'
+[CUGHC]: https://docs.github.com/es/copilot/using-github-copilot 'Documentación oficial de GitHub Copilot'
+[DOGHS]: https://docs.github.com/es/copilot/using-github-copilot/copilot-spaces 'Documentación de GitHub Copilot Spaces'
+[GHCS]: https://github.com/copilot/spaces
+[CGPT]: https://chat.openai.com 'ChatGPT'
+[DGHC]: https://docs.github.com/es/copilot/using-github-copilot 'Documentación oficial de GitHub Copilot'
+[GCGPT]: https://help.openai.com/en/collections/3742473-chatgpt 'Documentación oficial ChatGPT'
 
 ---
 
@@ -44,7 +50,7 @@ Este es el lugar donde comienza tu viaje para **crear, organizar y compartir con
 
 Con `metodo360` puedes:
 
-- 🧠 Elegir cómo quieres pensar tu investigación (existen diferentes formas de conocer, llamadas *paradigmas*).
+- 🧠 Elegir cómo quieres pensar tu investigación (existen diferentes formas de conocer, llamadas _paradigmas_).
 - ✍️ Seguir una plantilla sencilla que guía tu proceso de principio a fin.
 - 🧩 Usar ejemplos, referencias y glosarios que te ayudan a comprender cada paso.
 - 🛠️ Guardar y versionar tu trabajo con GitHub (Permitiendo que el conocimiento sea dinámico, evolutivo y autorefinable).
@@ -52,16 +58,15 @@ Con `metodo360` puedes:
 
 Esta herramienta está diseñada para **asistir en la creación, documentación y validación de investigaciones** a partir de múltiples paradigmas epistemológicos. Esta plataforma combina principios filosóficos, metodológicos y tecnológicos para transformar el acto de investigar en un proceso guiado, colaborativo y estructurado.
 
-> 📝 **Nota**: *Este repositorio no solo contiene el código y lógica de la herramienta, sino también su **fundamento teórico**, su **plantilla base de investigación**, su **glosario de conceptos** y una propuesta de **entrelazado semántico entre investigaciones***.
+> 📝 **Nota**: _Este repositorio no solo contiene el código y lógica de la herramienta, sino también su **fundamento teórico**, su **plantilla base de investigación**, su **glosario de conceptos** y una propuesta de **entrelazado semántico entre investigaciones**_.
 
 ### 🔍 ¿En qué se basa?
 
 Esta herramienta no salió de la nada: se construyó a partir de una **investigación real** sobre cómo se crea el conocimiento. Descubrimos que, aunque hay muchas formas de investigar, hay **nueve elementos clave** que siempre están presentes. Esos elementos nos ayudan a gestionar mejor lo que aprendemos, a organizar nuestras ideas y construir conocimiento con sentido.
 
->  📝 **Nota**: *Si quieres ver la investigación completa que da vida a este proyecto*  
-> 📎 [El conocimiento](./researches/el-conocimiento/README.md)
+> 📝 **Nota**: _Si quieres ver la investigación completa que da vida a este proyecto visita_: [El conocimiento][ELCON]
 
-### 📘 ¿Y si no entiendo una palabra?
+### 🤷‍♀️ ¿Y si no entiendo una palabra?
 
 No te preocupes. En `metodo360` usamos un **glosario** para ayudarte con cualquier palabra o concepto que no te resulte claro.  
 Un glosario es como un diccionario especial del proyecto, hecho para que nadie se quede atrás.
@@ -69,42 +74,43 @@ Un glosario es como un diccionario especial del proyecto, hecho para que nadie s
 🔎 **¿Por qué es importante tener un glosario en una investigación?**
 
 Porque cuando investigamos o trabajamos con conocimiento, muchas veces usamos palabras que:
+
 - 🌀 Pueden tener **distintos significados según el contexto**.
 - 💬 Son muy técnicas o poco comunes.
 - ✍️ Necesitan una **definición precisa para que el trabajo sea claro y coherente**.
 
 Tener un glosario:
+
 - ✅ Evita confusiones.
 - ✅ Ayuda a que todos hablen el mismo “idioma”.
 - ✅ Hace que tu investigación sea más fácil de entender, compartir y mejorar.
 
 Y lo más importante:
-> 💡 *Un buen glosario no es solo para leerlo... también es para construirlo contigo.*
 
-> 📝 **Nota**: *Puedes consultar el glosario aquí*  
-> 📎 [Glosario del Proyecto](./docs/glossary.md)
+> 💡 _Un buen glosario no es solo para leerlo... también es para construirlo contigo._
+
+> 📝 **Nota**: _Puedes consultar el glosario desde_: [Glosario del Proyecto][GLOSS]
 
 Si en tu camino descubres una palabra que debería estar allí, ¡puedes sugerirla y ayudar a que el glosario crezca!
 
 ### 🧭 ¿Necesitas guía?
 
-En este archivo (`README.md`) se te dará toda la información que necesitas para comenzar, entender cómo está organizado el repositorio, aprender a contribuir, y conocer los principios que hacen que `metodo360` sea una herramienta abierta, ética y útil para todos. 
+En este archivo (`README.md`) se te dará toda la información que necesitas para comenzar, entender cómo está organizado el repositorio, aprender a contribuir, y conocer los principios que hacen que `metodo360` sea una herramienta abierta, ética y útil para todos.
 
 Además de este archivo principal, encontrarás otros archivos `README.md` en distintas carpetas del repositorio. Todos tienen el mismo propósito: **ser tu guía dentro de cada sección**, explicando para qué sirve, cómo se usa y qué puedes hacer allí.
 
-> 💡 Piensa en cada README como una señal en el camino que te ayuda a no perderte, y a aprovechar al máximo todo lo que `metodo360` tiene para ofrecerte.
+> 💡 _Piensa en cada README como una señal en el camino que te ayuda a no perderte, y a aprovechar al máximo todo lo que `metodo360` tiene para ofrecerte_.
 
 Así que si alguna vez entras a una carpeta y no sabes por dónde empezar... ¡busca el README! Está hecho para ti.
 
-> 💡 **Recuerda**: aprender a investigar no es solo para expertos. Es una habilidad que cualquiera puede desarrollar... ¡y puede ser incluso divertida!
+> 💡 **Recuerda**: **_Aprender a investigar no es solo para expertos. Es una habilidad que cualquiera puede desarrollar... ¡y puede ser incluso divertida!_**
 
-💡 **Para más información, consulta:**  
-🔗 [Documentación](docs/README.md) |
-[Índice](#-índice)
+💡 **Enlaces de interés:**
+🔗 [Documentación][DOCS] | [Cómo contribuir][CONTRIB] | [Asistente IA][ASAI] | [Índice][INDEX]
 
 ---
 
-## 🎯 Objetivos y resultados
+## 🎯 Objetivos y Resultados
 
 ### 🌟 ¿Qué busca lograr `metodo360`?
 
@@ -128,13 +134,12 @@ El objetivo principal de `metodo360` es ayudarte a **crear, organizar y comparti
 
 **En pocas palabras**: `metodo360` te ayuda a transformar tus ideas en investigaciones reales, bien estructuradas y con impacto.
 
-💡 **Para más información, consulta:**  
-🔗 [Documentación](docs/README.md) |
-[Índice](#-índice)
+💡 **Enlaces de interés:**
+🔗 [Documentación][DOCS] | [Cómo contribuir][CONTRIB] | [Asistente IA][ASAI] | [Índice][INDEX]
 
 ---
 
-## 🧑‍💻 Público objetivo
+## 🧑‍💻 Público Objetivo
 
 `metodo360` está pensado para cualquier persona con ganas de **comprender, crear y compartir conocimiento**, sin importar su nivel académico o experiencia previa. Esta herramienta está diseñada para acompañarte en tu camino, ya sea que estés empezando a investigar o que ya tengas proyectos en marcha.
 
@@ -155,113 +160,144 @@ El objetivo principal de `metodo360` es ayudarte a **crear, organizar y comparti
 - 📚 **Personas autodidactas**  
   Que sienten curiosidad por aprender, explorar o transformar su entorno, y que desean hacerlo de forma reflexiva, estructurada y conectada con otras voces y saberes.
 
-> 📝 **Nota**: *Si alguna vez pensaste: “quiero investigar, pero no sé por dónde empezar”…  
+> 📝 **Nota**: _Si alguna vez pensaste: “quiero investigar, pero no sé por dónde empezar”…  
 > o “tengo una idea importante, pero no sé cómo ordenarla y compartirla”,  
-> entonces `metodo360` es para ti.*
+> entonces `metodo360` es para ti._
 
-💡 **Para más información, consulta:**  
-🔗 [Documentación](docs/README.md) |
-[Índice](#-índice)
-
----
-
-## 🚀 Guía rápida para comenzar
-
-**En Construcción...**
-
-💡 **Para más información, consulta:**  
-🔗 [Documentación](docs/README.md) |
-[Índice](#-índice)
+💡 **Enlaces de interés:**
+🔗 [Documentación][DOCS] | [Cómo contribuir][CONTRIB] | [Asistente IA][ASAI] | [Índice][INDEX]
 
 ---
 
-## 📦 Estructura del repositorio
+## 🚀 Guía Rápida para Comenzar
 
-**En Construcción...**
+### 🤖 Uso del asistente de IA: GitHub Copilot y ChatGPT
 
-💡 **Para más información, consulta:**  
-🔗 [Documentación](docs/README.md) |
-[Índice](#-índice)
+Para aprovechar al máximo la herramienta `metodo360`, se ha diseñado un conjunto de **prompts** que permiten un proceso de **llenado asistido, validación guiada y construcción reflexiva**. Estos prompts actúan como instrucciones inteligentes que orientan el comportamiento de la IA, permitiéndole adaptarse a tu proceso mientras desarrollas investigaciones, completas plantillas o redactas documentación de forma estructurada y coherente.
 
----
+Los prompts de `metodo360` están pensados para configurarse en herramientas como **GitHub Copilot** y **ChatGPT**, que ofrecen funcionalidades como el **almacenamiento de contexto** y la **generación de contenido asistido**. Gracias a estas capacidades, la experiencia de investigación se vuelve **más fluida, iterativa y colaborativa**, permitiéndote avanzar con claridad y estructura desde la idea inicial hasta el resultado final.
 
-## 📑 Índice de temas documentados
+Existen **dos formas principales de acceder a este acompañamiento directamente desde tu navegador**, sin necesidad de instalar software adicional.
 
-**En Construcción...**
+#### 🧪 Opción 1: Usar GitHub Copilot desde un GitHub Space
 
-💡 **Para más información, consulta:**  
-🔗 [Documentación](docs/README.md) |
-[Índice](#-índice)
+Puedes trabajar directamente sobre el repositorio de `metodo360` utilizando [GitHub Copilot Spaces][DOGHS], una plataforma experimental que te permite crear, editar y ejecutar archivos (Markdown, YAML, notebooks, scripts, etc.) en un entorno interactivo y reproducible, todo desde tu navegador.
 
----
+Si tienes habilitado [GitHub Copilot][DGHC], funcionará como tu asistente de IA mientras editas tus archivos en el Space. Esto te permitirá:
 
-## 📌 Usos sugeridos
+- Completar campos de plantillas de forma asistida.
+- Recibir sugerencias inteligentes y autocompletado en tiempo real.
+- Mantener la estructura y coherencia metodológica de tus aportes.
+- Ejecutar prototipos o notebooks y compartir tus resultados fácilmente con otras personas.
 
-**En Construcción...**
+**¿Qué necesitas?**
 
-💡 **Para más información, consulta:**  
-🔗 [Documentación](docs/README.md) |
-[Índice](#-índice)
+- Una cuenta en GitHub.
+- GitHub Copilot activado en tu cuenta (recomendado para el llenado asistido).
+- Acceso a [GitHub Copilot Spaces][GHCS] (puede requerir acceso beta).
 
----
+👉 **Guías paso a paso del uso de GitHub:**  
+🔗 [Cómo crear un GitHub Space para metodo360][CCGHSM360]
+🔗 [Cómo usar GitHub][CUGH]
+🔗 [Cómo usar GitHub Copilot][CUGHC]
 
-## 📖 Documentación extendida (`/docs`)
+> 💡 _Trabajar desde un Space con Copilot activo es una de las formas más ágiles y colaborativas de aprovechar el llenado asistido y la asistencia de IA en metodo360, especialmente para prototipos, documentación interactiva y colaboración._
 
-**En Construcción...**
+#### 🧪 Opción 2: Usar ChatGPT desde el navegador
 
-💡 **Para más información, consulta:**  
-🔗 [Documentación](docs/README.md) |
-[Índice](#-índice)
+También puedes trabajar con `metodo360` utilizando **ChatGPT** desde tu navegador, incluso con una cuenta gratuita.  
+Esta opción es ideal si prefieres un entorno conversacional, donde puedas **formular preguntas**, **recibir sugerencias redactadas paso a paso** o **pedir ayuda con la estructura y contenido de tus investigaciones**.
 
----
+Aunque la versión gratuita no permite mantener una memoria prolongada entre sesiones, sí puedes:
 
-## ✨ Estado del proyecto y futuros desarrollos
+- Dialogar con el asistente de IA sobre una plantilla específica.
+- Copiar y pegar fragmentos del repositorio para que te ayude a analizarlos o completarlos.
+- Pedir explicaciones sobre conceptos clave del glosario.
+- Generar contenido metodológico o estructural guiado.
 
-**En Construcción...**
+**¿Qué necesitas?**
 
-💡 **Para más información, consulta:**  
-🔗 [Documentación](docs/README.md) |
-[Índice](#-índice)
+- Una cuenta gratuita en [ChatGPT (chat.openai.com)][CGPT].
+- Acceso a internet desde un navegador.
+- El link al repositorio `metodo360` o los fragmentos con los que estás trabajando.
 
----
+👉 **Guías paso a paso del uso de ChatGPT:**  
+🔗 [Cómo colaborar con metodo360 desde ChatGPT][CCMCGPT]
+🔗 [Cómo usar ChatGPT][GCGPT]
 
-## 🛠️ Cómo contribuir
+> 💡 _ChatGPT funciona mejor si le das **instrucciones claras y fragmentos concretos** de lo que estás haciendo. Puedes trabajar sección por sección y ajustar tus ideas con ayuda del diálogo._
 
-**En Construcción...**
-
-💡 **Para más información, consulta:**  
-🔗 [Documentación](docs/README.md) |
-[Índice](#-índice)
-
----
-
-## 🔗 Referencias y recursos
-
-**En Construcción...**
-
-💡 **Para más información, consulta:**  
-🔗 [Documentación](docs/README.md) |
-[Índice](#-índice)
+💡 **Enlaces de interés:**
+🔗 [Documentación][DOCS] | [Cómo contribuir][CONTRIB] | [Asistente IA][ASAI] | [Índice][INDEX]
 
 ---
 
-## 🎯 Conclusión y beneficios
+## 📦 Estructura del Repositorio
 
 **En Construcción...**
 
-💡 **Para más información, consulta:**  
-🔗 [Documentación](docs/README.md) |
-[Índice](#-índice)
+💡 **Enlaces de interés:**
+🔗 [Documentación][DOCS] | [Cómo contribuir][CONTRIB] | [Asistente IA][ASAI] | [Índice][INDEX]
 
 ---
 
-## 🧭 Principios que guían el desarrollo
+## 📑 Índice de Temas Documentados
 
 **En Construcción...**
 
-💡 **Para más información, consulta:**  
-🔗 [Documentación](docs/README.md) |
-[Índice](#-índice)
+💡 **Enlaces de interés:**
+🔗 [Documentación][DOCS] | [Cómo contribuir][CONTRIB] | [Asistente IA][ASAI] | [Índice][INDEX]
+
+---
+
+## 📌 Usos Sugeridos
+
+**En Construcción...**
+
+💡 **Enlaces de interés:**
+🔗 [Documentación][DOCS] | [Cómo contribuir][CONTRIB] | [Asistente IA][ASAI] | [Índice][INDEX]
+
+---
+
+## ✨ Estado del Proyecto y Futuros Desarrollos
+
+**En Construcción...**
+
+💡 **Enlaces de interés:**
+🔗 [Documentación][DOCS] | [Cómo contribuir][CONTRIB] | [Asistente IA][ASAI] | [Índice][INDEX]
+
+---
+
+## 🔗 Referencias y Recursos
+
+- [Documentación][DOCS]
+- [Cómo contribuir][CONTRIB]
+- [Asistente IA][ASAI]
+- [Plantillas oficiales de trabajo][PTT]
+- [Automatización][AUT]
+- [Investigaciones][RESEARCH]
+- [Investigadores][RESEARCHRS]
+
+💡 **Enlaces de interés:**
+🔗 [Documentación][DOCS] | [Cómo contribuir][CONTRIB] | [Asistente IA][ASAI] | [Índice][INDEX]
+
+---
+
+## 🎯 Conclusión y Beneficios
+
+**En Construcción...**
+
+💡 **Enlaces de interés:**
+🔗 [Documentación][DOCS] | [Cómo contribuir][CONTRIB] | [Asistente IA][ASAI] | [Índice][INDEX]
+
+---
+
+## 🧭 Principios que Guían el Desarrollo
+
+**En Construcción...**
+
+💡 **Enlaces de interés:**
+🔗 [Documentación][DOCS] | [Cómo contribuir][CONTRIB] | [Asistente IA][ASAI] | [Índice][INDEX]
 
 ---
 
@@ -270,18 +306,16 @@ El objetivo principal de `metodo360` es ayudarte a **crear, organizar y comparti
 Este repositorio usa una estructura de licencias múltiples según el tipo de contenido:
 
 - 📚 **Documentación, plantillas y material metodológico**  
-  Licencia: [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](LICENSE-CC-BY-SA.md)  
-  Esto incluye: el marco teórico, glosario, plantillas de investigación, contenidos educativos y README.md.
+  Licencia: [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)][LCCBYSA]  
+  Esto incluye: el marco teórico, glosario, plantillas de investigación, contenidos educativos y `README.md`.
 
 - 💻 **Código fuente, scripts y herramientas automatizadas**  
-  Licencia: [GPLv3 License](LICENSE-GPLv3.md)  
+  Licencia: [GPLv3 License][LGPL]
   Esto incluye: cualquier archivo `.js`, `.py`, `.sh`, (sin limitarse a los mismos) y la lógica programática de la herramienta.
 
-> 💡 Al contribuir a este repositorio, aceptas que tu aportación quede bajo la licencia correspondiente según el tipo de contenido.
+> 💡 _Al contribuir a este repositorio, aceptas que tu aportación quede bajo la licencia correspondiente según el tipo de contenido_.
 
-💡 **Para más información, consulta:**  
-🔗 [Documentación](docs/README.md) |
-[Licencias](LICENSE) |
-[Índice](#-índice)
+💡 **Enlaces de interés:**
+🔗 [Documentación][DOCS] | [Cómo contribuir][CONTRIB] | [Asistente IA][ASAI] | [Índice][INDEX]
 
 ---

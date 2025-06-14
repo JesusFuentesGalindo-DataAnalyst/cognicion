@@ -1,11 +1,38 @@
-# 🤝 Guía para contribuir a `metodo360`
+# 🤝 Guía para Contribuir a `metodo360`
 
 ¡Gracias por tu interés en contribuir a este proyecto!  
 `metodo360` busca construir y compartir conocimiento de forma **estructurada, ética y colaborativa**. Esta guía te ayudará a sumarte al proceso de forma clara y respetuosa.
 
+> **_¡Gracias por ayudar a construir conocimiento libre, accesible y colaborativo!_**
+
 ---
 
-## 📝 Tipos de contribuciones bienvenidas
+## 📑 Índice
+
+- [📥 Tipos de Contribuciones Bienvenidas](#-tipos-de-contribuciones-bienvenidas)
+- [🛠️ Requisitos Previos](#️-requisitos-previos)
+- [🚦 Proceso General para Contribuir](#-proceso-general-para-contribuir)
+- [👮‍♀️ Buenas Prácticas](#️-buenas-prácticas)
+- [🧱 Estructura Mínima Esperada](#-estructura-mínima-esperada)
+- [🛡️ Código de Conducta](#️-código-de-conducta)
+- [🗃️ Recursos Adicionales](#️-recursos-adicionales)
+- [🤷‍♀️ ¿Tienes Dudas?](#️-tienes-dudas)
+
+[INDEX]: #-índice
+[M360]: ./README.md 'metodo360'
+[LCCBYSA]: ./LICENSE-CC-BY-SA.md 'Licencia CC BY SA'
+[LGPL]: ./LICENSE-GPLv3.md 'Licencia GPLv3'
+[DOCS]: ./docs/README.md 'Documentación extendida'
+[ASAI]: ./ai-assistance/README.md 'Asistente de IA'
+[GLOSS]: ./researches/glossary.md 'Glosario de las investigaciones'
+[AIACG]: ./docs/ai-assistant-configuration-guide.md 'Guía de configuración de asistente de IA'
+[PTT]: ./templates/README.md 'Plantillas de trabajo'
+[RESEARCH]: ./researches/README.md 'Investigaciones'
+[NISS]: https://github.com/issues/assigned 'Nuevo Issue'
+
+---
+
+## 📥 Tipos de Contribuciones Bienvenidas
 
 Puedes contribuir de muchas maneras:
 
@@ -15,62 +42,78 @@ Puedes contribuir de muchas maneras:
 - 🛠️ Corrigiendo errores o actualizando contenidos desactualizados.
 - 🤖 Proponiendo mejoras a prompts o automatizaciones.
 
+💡 **Enlaces de interés:**
+🔗 [metodo360][M360] | [Documentación][DOCS] | [Asistente IA][ASAI] | [Índice][INDEX]
+
 ---
 
-## 🛠️ Requisitos previos
+## 🛠️ Requisitos Previos
 
 Antes de contribuir, por favor:
 
-- 📖 Lee el [`README.md`](./README.md) y la documentación extendida en `/docs`.
+- 📖 Lee el [`README.md`][M360] y la [documentación extendida][DOCS].
 - 🧭 Comprende el propósito y la estructura de `metodo360`.
 - 🗂️ Respeta la organización de carpetas y archivos.
-- 📘 Consulta el [glosario](./docs/glosario.md) para usar los términos correctamente.
+- 📘 Consulta el [glosario][GLOSS] para usar los términos correctamente.
 
 Esto ayuda a mantener **coherencia, claridad y calidad** en todo el proyecto.
 
----
-
-## 🚦 Proceso general para contribuir
-
-1. **Haz un fork del repositorio o crea una nueva rama**
-
-   - Usa nombres descriptivos como `mejora-glosario`, `nueva-metodologia`, etc.
-
-2. **Sigue el llenado asistido**
-
-   - Usa los prompts disponibles para guiar tu proceso (ver sección "Prompts activos").
-
-3. **Completa las plantillas**
-
-   - Rellena todos los campos requeridos, especialmente los marcados como `[valor...]`.
-
-4. **Redacta con claridad y fundamento**
-
-   - Si tu contribución es una investigación, incluye referencias, fuentes y justificación.
-   - Si es una mejora técnica, documenta cambios y razones.
-
-5. **Valida tu aporte**
-
-   - Usa los mecanismos de validación y autoevaluación (ver prompts y secciones de validación)
-   - Asegúrate de no romper la estructura existente.
-
-6. **Haz un Pull Request (PR)**  
-   Describe con claridad:
-
-   - Qué hiciste
-   - Por qué lo hiciste
-   - Cómo se puede revisar tu aporte
-   - Relaciona tu PR con issues o contribuciones previas si aplica.
-
-7. **Responde a revisiones**
-   - Atiende comentarios, sugerencias y solicitudes de cambios.
-   - Mantén una actitud abierta y colaborativa.
-
-**Participa del diálogo constructivo. Aquí aprendemos en comunidad.**
+💡 **Enlaces de interés:**
+🔗 [metodo360][M360] | [Documentación][DOCS] | [Asistente IA][ASAI] | [Índice][INDEX]
 
 ---
 
-## 🚨 Buenas prácticas
+## 🚦 Proceso General para Contribuir
+
+En este repositorio puedes contribuir de dos formas complementarias:
+
+A. **Contribuciones investigativas**: objetos de estudio, estudios, líneas, contribuciones analíticas.
+B. **Contribuciones técnicas**: mejoras al código, features, documentación, refactorizaciones, automatizaciones, entre otras.
+
+### 🧪 A. Contribuciones Investigativas
+
+Estas aportaciones enriquecen el contenido, metodología y producción de conocimiento dentro de `metodo360`. Puedes:
+
+| Aporte                              | ¿Qué haces?                                           | ¿Cómo hacerlo?                                                                                                     |
+| ----------------------------------- | ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| 📘 Crear un nuevo Objeto de Estudio | Iniciar un nuevo eje de investigación.                | Usa el prompt `(crear-objeto)` o crea manualmente `/researches/[objeto]/README.md`.                                |
+| 🧭 Agregar un nuevo Estudio         | Asociar enfoques, campos o marcos teóricos.           | Usa el prompt `(crear-estudio)` o edita `/[objeto]/[estudio]/` y `research.md`.                                    |
+| 🧵 Crear Líneas de Investigación    | Delimitar rutas específicas dentro del estudio.       | Usa `(crear-línea-investigación)` o crea `/lines-research/` y `history.md`.                                        |
+| 🧠 Documentar una Contribución      | Añadir contenido crítico, reflexivo, o empírico.      | Usa `(crear-contribución)` o completa los archivos `contribution.md` `content.md`, `analysis.md`, `conclusion.md`. |
+| 🔍 Validar/Analizar Aportes         | Revisar, validar o ampliar contribuciones existentes. | Usa `(validar-aporte)` o edita `validations.md`, `analysis.md`.                                                    |
+
+> 📝 **Nota**: _Estas contribuciones siguen una estructura sistemática basada en plantillas y prompts disponibles en el [asistente IA][ASAI] o en las [plantillas oficiales de trabajo][PTT]_.
+
+### 🛠️ B. Contribuciones Técnicas
+
+Estas mejoras fortalecen la herramienta como proyecto de software libre. Puedes:
+
+| Aporte                     | ¿Qué haces?                                                     | ¿Cómo hacerlo?                                                         |
+| -------------------------- | --------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| 🚀 Sugerir nuevas features | Proponer funcionalidades útiles para usuarios o investigadores. | Abre un Issue con la etiqueta `feature-request`.                       |
+| 🪛 Corregir errores        | Resolver bugs o problemas técnicos.                             | Usa `Pull Request` con referencia al Issue.                            |
+| 🧹 Refactorizar código     | Mejorar estructura interna sin alterar comportamiento.          | Indica cambios en `PR` e incluye pruebas si aplica.                    |
+| 📝 Mejorar documentación   | Aclarar procesos, agregar ejemplos o corregir errores.          | Puedes editar archivos `.md` directamente o sugerir cambios vía Issue. |
+| 🤖 Automatizar procesos    | Añadir scripts, CI/CD, validaciones automáticas.                | Explica impacto y beneficios en la descripción del `PR`.               |
+
+> 📝 **Nota**: _Toda contribución técnica debe pasar por revisión y cumplir con las convenciones del repositorio (formato, estilo, pruebas si aplica)_.
+
+### 📌 ¿Dónde empezar?
+
+- Consulta los Issues etiquetados como "help wanted" (En desarrollo...)
+- Lee la [Documentación Extendida][DOCS]
+- Explora las [Investigaciones][RESEARCH]
+
+**¿Listo para aportar? Abre un [Issue][NISS], usa el Asistente IA o clona el repo y haz magia.**
+
+> 💡 _Participa del diálogo constructivo. Aquí aprendemos en comunidad_.
+
+💡 **Enlaces de interés:**
+🔗 [metodo360][M360] | [Documentación][DOCS] | [Asistente IA][ASAI] | [Índice][INDEX]
+
+---
+
+## 👮‍♀️ Buenas Prácticas
 
 - ❌ No edites archivos fuera de tu alcance
   Si tienes dudas, consulta primero.
@@ -82,9 +125,12 @@ Esto ayuda a mantener **coherencia, claridad y calidad** en todo el proyecto.
   - **CC BY-SA 4.0** para documentación y plantillas
   - **GPLv3** para código y automatizaciones
 
+💡 **Enlaces de interés:**
+🔗 [metodo360][M360] | [Documentación][DOCS] | [Asistente IA][ASAI] | [Índice][INDEX]
+
 ---
 
-## 🧱 Estructura mínima esperada
+## 🧱 Estructura Mínima Esperada
 
 Las contribuciones deben basarse en las plantillas del repositorio. Un ejemplo típico:
 
@@ -103,30 +149,42 @@ metodo360/
                             └── ...
 ```
 
+💡 **Enlaces de interés:**
+🔗 [metodo360][M360] | [Documentación][DOCS] | [Asistente IA][ASAI] | [Índice][INDEX]
+
 ---
 
-## 🛡️ Código de conducta
+## 🛡️ Código de Conducta
 
 Este es un espacio para compartir, aprender y construir colectivamente.  
 No se tolerarán actitudes abusivas, discriminación o ataques personales.  
 Todos los aportes deben hacerse con respeto y apertura al diálogo.
 
----
-
-## 🧠 Recursos útiles
-
-- [`README.md`](./README.md) – Introducción general
-- [Documentación](./docs) – Documentación extendida
-- [Glosario](./docs/glosario.md) – Términos clave
-- [Plantillas oficiales](./templates) – Para construir tus contribuciones
-- [Licencias](./LICENSE) – Reglas legales del proyecto
+💡 **Enlaces de interés:**
+🔗 [metodo360][M360] | [Documentación][DOCS] | [Asistente IA][ASAI] | [Índice][INDEX]
 
 ---
 
-## 💡 ¿Tienes dudas?
+## 🗃️ Recursos Adicionales
 
-Abre un [issue](https://github.com/tu-usuario/metodo360/issues) o participa en el canal de discusión.
+- [metodo360][M360]
+- [Documentación extendida][DOCS]
+- [Glosario de investigaciones][GLOSS]
+- [Plantillas oficiales de trabajo][PTT]
+- Licencias
+  - [CC BY-SA 4.0][LCCBYSA]
+  - [GPLv3][LGPL]
+
+💡 **Enlaces de interés:**
+🔗 [metodo360][M360] | [Documentación][DOCS] | [Asistente IA][ASAI] | [Índice][INDEX]
 
 ---
 
-**¡Gracias por ayudar a construir conocimiento libre, accesible y colaborativo!**
+## 🤷‍♀️ ¿Tienes Dudas?
+
+Abre un [issue](https://github.com/JesusFuentesGalindo-DataAnalyst/metodo360/issues) o participa en el canal de discusión.
+
+💡 **Enlaces de interés:**
+🔗 [metodo360][M360] | [Documentación][DOCS] | [Asistente IA][ASAI] | [Índice][INDEX]
+
+---
