@@ -9,7 +9,6 @@ _Conocer con método · Crear con fundamento · Conectar con propósito_
 - [🧑‍💻 Público Objetivo](#-público-objetivo)
 - [🚀 Guía Rápida para Comenzar](#-guía-rápida-para-comenzar)
 - [📦 Estructura del Repositorio](#-estructura-del-repositorio)
-- [📑 Índice de Temas Documentados](#-índice-de-temas-documentados)
 - [📌 Usos Sugeridos](#-usos-sugeridos)
 - [✨ Estado del Proyecto y Futuros Desarrollos](#-estado-del-proyecto-y-futuros-desarrollos)
 - [🔗 Referencias y Recursos](#-referencias-y-recursos)
@@ -24,10 +23,10 @@ _Conocer con método · Crear con fundamento · Conectar con propósito_
 [CONTRIB]: ./CONTRIBUTING.md 'Cómo contribuir'
 [ASAI]: ./ai-assistance/README.md 'Asistente de IA'
 [PTT]: ./templates/README.md 'Plantillas de trabajo'
-[RESEARCH]: ./researches/README.md 'Investigaciones'
-[RESEARCHRS]: ./researchers/README.md 'Investigadores'
+[RESEARCHES]: ./researches/README.md 'Investigaciones'
+[RESEARCHERS]: ./researchers/README.md 'Investigadores'
 [AUT]: ./scripts/README.md 'Scripts de automatización'
-[ELCON]: ./researches/el-conocimiento/README.md 'Estudio El Conocimiento'
+[ELCON]: ./researches/el-conocimiento/object-study.md 'Estudio El Conocimiento'
 [GLOSS]: ./researches/glossary.md 'Glosario de las investigaciones'
 [CCGHSM360]: ./docs/ai-assistant-configuration-guide.md#-pasos-para-comenzar-con-github-copilot 'Configurar GitHub Copilot'
 [CCMCGPT]: ./docs/ai-assistant-configuration-guide.md#-uso-de-chatgpt 'Configurar ChatGPT'
@@ -38,6 +37,9 @@ _Conocer con método · Crear con fundamento · Conectar con propósito_
 [CGPT]: https://chat.openai.com 'ChatGPT'
 [DGHC]: https://docs.github.com/es/copilot/using-github-copilot 'Documentación oficial de GitHub Copilot'
 [GCGPT]: https://help.openai.com/en/collections/3742473-chatgpt 'Documentación oficial ChatGPT'
+
+💡 **Enlaces de interés:**  
+🔗 [Documentación][DOCS] | [Cómo contribuir][CONTRIB] | [Asistente IA][ASAI] | [Investigaciones][RESEARCHES]
 
 ---
 
@@ -53,7 +55,7 @@ Con `metodo360` puedes:
 - 🧠 Elegir cómo quieres pensar tu investigación (existen diferentes formas de conocer, llamadas _paradigmas_).
 - ✍️ Seguir una plantilla sencilla que guía tu proceso de principio a fin.
 - 🧩 Usar ejemplos, referencias y glosarios que te ayudan a comprender cada paso.
-- 🛠️ Guardar y versionar tu trabajo con GitHub (Permitiendo que el conocimiento sea dinámico, evolutivo y autorefinable).
+- 🛠️ Guardar y versionar tu trabajo con **Git/GitHub** (Permitiendo que el conocimiento sea dinámico, evolutivo y autorefinable).
 - 🌐 Compartir tu conocimiento con otras personas y conectarlo a una red más grande.
 
 Esta herramienta está diseñada para **asistir en la creación, documentación y validación de investigaciones** a partir de múltiples paradigmas epistemológicos. Esta plataforma combina principios filosóficos, metodológicos y tecnológicos para transformar el acto de investigar en un proceso guiado, colaborativo y estructurado.
@@ -105,8 +107,8 @@ Así que si alguna vez entras a una carpeta y no sabes por dónde empezar... ¡b
 
 > 💡 **Recuerda**: **_Aprender a investigar no es solo para expertos. Es una habilidad que cualquiera puede desarrollar... ¡y puede ser incluso divertida!_**
 
-💡 **Enlaces de interés:**
-🔗 [Documentación][DOCS] | [Cómo contribuir][CONTRIB] | [Asistente IA][ASAI] | [Índice][INDEX]
+💡 **Enlaces de interés:**  
+🔗 [Documentación][DOCS] | [Cómo contribuir][CONTRIB] | [Asistente IA][ASAI] | [Investigaciones][RESEARCHES] | _[Índice][INDEX]_
 
 ---
 
@@ -134,8 +136,8 @@ El objetivo principal de `metodo360` es ayudarte a **crear, organizar y comparti
 
 **En pocas palabras**: `metodo360` te ayuda a transformar tus ideas en investigaciones reales, bien estructuradas y con impacto.
 
-💡 **Enlaces de interés:**
-🔗 [Documentación][DOCS] | [Cómo contribuir][CONTRIB] | [Asistente IA][ASAI] | [Índice][INDEX]
+💡 **Enlaces de interés:**  
+🔗 [Documentación][DOCS] | [Cómo contribuir][CONTRIB] | [Asistente IA][ASAI] | [Investigaciones][RESEARCHES] | _[Índice][INDEX]_
 
 ---
 
@@ -164,8 +166,8 @@ El objetivo principal de `metodo360` es ayudarte a **crear, organizar y comparti
 > o “tengo una idea importante, pero no sé cómo ordenarla y compartirla”,  
 > entonces `metodo360` es para ti._
 
-💡 **Enlaces de interés:**
-🔗 [Documentación][DOCS] | [Cómo contribuir][CONTRIB] | [Asistente IA][ASAI] | [Índice][INDEX]
+💡 **Enlaces de interés:**  
+🔗 [Documentación][DOCS] | [Cómo contribuir][CONTRIB] | [Asistente IA][ASAI] | [Investigaciones][RESEARCHES] | _[Índice][INDEX]_
 
 ---
 
@@ -197,11 +199,11 @@ Si tienes habilitado [GitHub Copilot][DGHC], funcionará como tu asistente de IA
 - Acceso a [GitHub Copilot Spaces][GHCS] (puede requerir acceso beta).
 
 👉 **Guías paso a paso del uso de GitHub:**  
-🔗 [Cómo crear un GitHub Space para metodo360][CCGHSM360]
-🔗 [Cómo usar GitHub][CUGH]
+🔗 [Cómo crear un GitHub Space para metodo360][CCGHSM360]  
+🔗 [Cómo usar GitHub][CUGH]  
 🔗 [Cómo usar GitHub Copilot][CUGHC]
 
-> 💡 _Trabajar desde un Space con Copilot activo es una de las formas más ágiles y colaborativas de aprovechar el llenado asistido y la asistencia de IA en metodo360, especialmente para prototipos, documentación interactiva y colaboración._
+> 💡 _Trabajar desde un Space con Copilot activo es una de las formas más ágiles y colaborativas de aprovechar el llenado asistido y la asistencia de IA en `metodo360`, especialmente para prototipos, documentación interactiva y colaboración._
 
 #### 🧪 Opción 2: Usar ChatGPT desde el navegador
 
@@ -222,31 +224,35 @@ Aunque la versión gratuita no permite mantener una memoria prolongada entre ses
 - El link al repositorio `metodo360` o los fragmentos con los que estás trabajando.
 
 👉 **Guías paso a paso del uso de ChatGPT:**  
-🔗 [Cómo colaborar con metodo360 desde ChatGPT][CCMCGPT]
+🔗 [Cómo colaborar con metodo360 desde ChatGPT][CCMCGPT]  
 🔗 [Cómo usar ChatGPT][GCGPT]
 
 > 💡 _ChatGPT funciona mejor si le das **instrucciones claras y fragmentos concretos** de lo que estás haciendo. Puedes trabajar sección por sección y ajustar tus ideas con ayuda del diálogo._
 
-💡 **Enlaces de interés:**
-🔗 [Documentación][DOCS] | [Cómo contribuir][CONTRIB] | [Asistente IA][ASAI] | [Índice][INDEX]
+💡 **Enlaces de interés:**  
+🔗 [Documentación][DOCS] | [Cómo contribuir][CONTRIB] | [Asistente IA][ASAI] | [Investigaciones][RESEARCHES] | _[Índice][INDEX]_
 
 ---
 
 ## 📦 Estructura del Repositorio
 
-**En Construcción...**
+```text
+metodo360/                  # Raíz del repositorio.
+├── README.md               # Documento de inicio y guía del repositorio.
+├── LICENSE.md              # Licencia múltiple.
+├── LICENSE-CC-BY-SA.md     # Licencia de contenido no funcionales.
+├── LICENSE-GPLv3.md        # Licencia de componentes funcionales.
+├── CONTRIBUTING.md         # Métodos de contribución.
+├── templates/              # Plantillas de trabajo.
+├── scripts/                # Scripts de automatización.
+├── researches/             # Investigaciones hechas con la herramienta.
+├── researchers/            # Perfil de investigadores.
+├── docs/                   # Documentación de la herramienta.
+└── ai-assistance/          # Contenido del asistente de IA.
+```
 
-💡 **Enlaces de interés:**
-🔗 [Documentación][DOCS] | [Cómo contribuir][CONTRIB] | [Asistente IA][ASAI] | [Índice][INDEX]
-
----
-
-## 📑 Índice de Temas Documentados
-
-**En Construcción...**
-
-💡 **Enlaces de interés:**
-🔗 [Documentación][DOCS] | [Cómo contribuir][CONTRIB] | [Asistente IA][ASAI] | [Índice][INDEX]
+💡 **Enlaces de interés:**  
+🔗 [Documentación][DOCS] | [Cómo contribuir][CONTRIB] | [Asistente IA][ASAI] | [Investigaciones][RESEARCHES] | _[Índice][INDEX]_
 
 ---
 
@@ -254,8 +260,8 @@ Aunque la versión gratuita no permite mantener una memoria prolongada entre ses
 
 **En Construcción...**
 
-💡 **Enlaces de interés:**
-🔗 [Documentación][DOCS] | [Cómo contribuir][CONTRIB] | [Asistente IA][ASAI] | [Índice][INDEX]
+💡 **Enlaces de interés:**  
+🔗 [Documentación][DOCS] | [Cómo contribuir][CONTRIB] | [Asistente IA][ASAI] | [Investigaciones][RESEARCHES] | _[Índice][INDEX]_
 
 ---
 
@@ -263,8 +269,8 @@ Aunque la versión gratuita no permite mantener una memoria prolongada entre ses
 
 **En Construcción...**
 
-💡 **Enlaces de interés:**
-🔗 [Documentación][DOCS] | [Cómo contribuir][CONTRIB] | [Asistente IA][ASAI] | [Índice][INDEX]
+💡 **Enlaces de interés:**  
+🔗 [Documentación][DOCS] | [Cómo contribuir][CONTRIB] | [Asistente IA][ASAI] | [Investigaciones][RESEARCHES] | _[Índice][INDEX]_
 
 ---
 
@@ -275,11 +281,11 @@ Aunque la versión gratuita no permite mantener una memoria prolongada entre ses
 - [Asistente IA][ASAI]
 - [Plantillas oficiales de trabajo][PTT]
 - [Automatización][AUT]
-- [Investigaciones][RESEARCH]
-- [Investigadores][RESEARCHRS]
+- [Investigaciones][RESEARCHES]
+- [Investigadores][RESEARCHERS]
 
-💡 **Enlaces de interés:**
-🔗 [Documentación][DOCS] | [Cómo contribuir][CONTRIB] | [Asistente IA][ASAI] | [Índice][INDEX]
+💡 **Enlaces de interés:**  
+🔗 [Documentación][DOCS] | [Cómo contribuir][CONTRIB] | [Asistente IA][ASAI] | [Investigaciones][RESEARCHES] | _[Índice][INDEX]_
 
 ---
 
@@ -287,8 +293,8 @@ Aunque la versión gratuita no permite mantener una memoria prolongada entre ses
 
 **En Construcción...**
 
-💡 **Enlaces de interés:**
-🔗 [Documentación][DOCS] | [Cómo contribuir][CONTRIB] | [Asistente IA][ASAI] | [Índice][INDEX]
+💡 **Enlaces de interés:**  
+🔗 [Documentación][DOCS] | [Cómo contribuir][CONTRIB] | [Asistente IA][ASAI] | [Investigaciones][RESEARCHES] | _[Índice][INDEX]_
 
 ---
 
@@ -296,8 +302,8 @@ Aunque la versión gratuita no permite mantener una memoria prolongada entre ses
 
 **En Construcción...**
 
-💡 **Enlaces de interés:**
-🔗 [Documentación][DOCS] | [Cómo contribuir][CONTRIB] | [Asistente IA][ASAI] | [Índice][INDEX]
+💡 **Enlaces de interés:**  
+🔗 [Documentación][DOCS] | [Cómo contribuir][CONTRIB] | [Asistente IA][ASAI] | [Investigaciones][RESEARCHES] | _[Índice][INDEX]_
 
 ---
 
@@ -315,7 +321,7 @@ Este repositorio usa una estructura de licencias múltiples según el tipo de co
 
 > 💡 _Al contribuir a este repositorio, aceptas que tu aportación quede bajo la licencia correspondiente según el tipo de contenido_.
 
-💡 **Enlaces de interés:**
-🔗 [Documentación][DOCS] | [Cómo contribuir][CONTRIB] | [Asistente IA][ASAI] | [Índice][INDEX]
+💡 **Enlaces de interés:**  
+🔗 [Documentación][DOCS] | [Cómo contribuir][CONTRIB] | [Asistente IA][ASAI] | [Investigaciones][RESEARCHES] | _[Índice][INDEX]_
 
 ---
