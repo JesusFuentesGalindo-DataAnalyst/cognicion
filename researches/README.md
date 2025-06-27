@@ -32,6 +32,20 @@ Aquí se organiza, documenta y traza el desarrollo de **todas las investigacione
 
 [OE1]: ./el-conocimiento/object-study.md
 
+<!-- Glosario -->
+
+[TRAZABILIDAD]: ./glossary.md#trazabilidad
+[TEORIA]: ./glossary.md#teoría
+[COLABORAR]: ./glossary.md#colaborar
+[RIGOR]: ./glossary.md#rigor
+[EPISTEMOLOGIA]: ./glossary.md#epistemología
+[PRECISION]: ./glossary.md#precisión
+[MODULAR]: ./glossary.md#modular
+[REUTILIZABLE]: ./glossary.md#reutilizable
+[INTERCONECTADO]: ./glossary.md#interconectado-da
+[VERIFICABLE]: ./glossary.md#verificable
+[EXTENSIBLE]: ./glossary.md#extensible
+
 💡 **Enlaces de interés:**  
 🔗 [metodo360][M360] | [Documentación][DOCS] | [Cómo contribuir][CONTRIB] | [Asistente IA][ASAI]
 
@@ -49,7 +63,7 @@ Aquí se organiza, documenta y traza el desarrollo de **todas las investigacione
   - Contribuciones a estudios, documentadas y validadas
 
 - **Plantillas y estructura común:**
-  Todas las investigaciones siguen la estructura y plantillas definidas por `metodo360`, lo que facilita la trazabilidad, comparación y calidad de los aportes.
+  Todas las investigaciones siguen la estructura y plantillas definidas por `metodo360`, lo que facilita la [trazabilidad][TRAZABILIDAD], comparación y calidad de los aportes.
 
 💡 **Enlaces de interés:**  
  🔗 [metodo360][M360] | [Documentación][DOCS] | [Cómo contribuir][CONTRIB] | [Asistente IA][ASAI] | _[Índice][INDEX]_
@@ -107,7 +121,7 @@ researches/
 └── ...
 ```
 
-> 📝 **Nota**: _La organización no es neutra: cada archivo y carpeta refleja un posicionamiento teórico sobre cómo se construye el conocimiento._
+> 📝 **Nota**: _La organización no es neutra: cada archivo y carpeta refleja un posicionamiento [teórico][TEORIA] sobre cómo se construye el conocimiento._
 
 💡 **Enlaces de interés:**  
 🔗 [metodo360][M360] | [Documentación][DOCS] | [Cómo contribuir][CONTRIB] | [Asistente IA][ASAI] | _[Índice][INDEX]_
@@ -136,7 +150,7 @@ researches/
 ## 🗃️ Recursos Adicionales
 
 - [metodo360][M360]
-- [Glosario general del proyecto][GLOSS]
+- [Glosario general][GLOSS]
 - [Plantillas oficiales de trabajo][PTT]
 - [Investigadores][RESEARCHERS]
 - [Automatización][AUT]
@@ -144,30 +158,30 @@ researches/
   - [CC BY-SA 4.0][LCCBYSA]
   - [GPLv3][LGPL]
 
-💡 **Enlaces de interés:**
+💡 **Enlaces de interés:**  
 🔗 [metodo360][M360] | [Documentación][DOCS] | [Cómo contribuir][CONTRIB] | [Asistente IA][ASAI] | _[Índice][INDEX]_
 
 ---
 
 ## 🗂️ Principios de Organización
 
-- **🔍 Trazabilidad:**
+- **🔍 [Trazabilidad][TRAZABILIDAD]:**
   Cada avance, contribución o modificación queda registrada en la estructura del repositorio y/o en el historial de Git. Esto permite identificar el origen, autoría, propósito y evolución de cada elemento de investigación.
-- **🤝 Colaboración:**
+- **🤝 [Colaboración][COLABORAR]:**
   La documentación clara, modular y semántica permite que cualquier miembro del equipo (humano o asistente IA) pueda comprender, auditar o continuar un proceso sin ambigüedad.
-- **🎯 Rigurosidad:**
+- **🎯 [Rigurosidad][RIGOR]:**
   La estructura se basa en plantillas, glosarios y metadatos coherentes con estándares de calidad metodológica y principios epistémicos definidos en metodo360.
-- **🧠 Coherencia Epistémica:**
-  Toda la estructura está alineada con una visión del conocimiento como proceso dinámico, evolutivo y autorefinable, lo que implica que incluso los documentos pueden modificarse, criticarse o refinarse en ciclos sucesivos sin perder su trazabilidad ni su identidad.
-- **♻️ Modularidad Reutilizable:**
+- **🧠 [Precisión][PRECISION] [Epistémica][EPISTEMOLOGIA]:**
+  Toda la estructura está alineada con una visión del conocimiento como proceso dinámico, evolutivo y refinable, lo que implica que incluso los documentos pueden modificarse, criticarse o refinarse en ciclos sucesivos sin perder su trazabilidad ni su identidad.
+- **♻️ [Modularidad][MODULAR] [Reutilizable][REUTILIZABLE]:**
   Cada nivel (objeto, línea, investigación, estudio, contribución) es autónomo pero interoperable, lo que permite:
   - Reutilizar marcos teóricos, metodologías o análisis en nuevos contextos.
   - Compartir bloques de conocimiento entre proyectos sin duplicación.
-- **🧩 Interconectividad:**
+- **🧩 [Interconectividad][INTERCONECTADO]:**
   El conocimiento no se almacena de forma lineal, sino en red. Las relaciones entre objetos, líneas o contribuciones son parte explícita de la documentación, lo que permite construir mapas epistémicos y realizar navegación semántica.
-- **🧪 Verificabilidad:**
+- **🧪 [Verificabilidad][VERIFICABLE]:**
   Cada contribución está diseñada para ser validada explícitamente. Las carpetas de **validaciones** (`validations/`), **conclusiones** (`conclusions/`), **análisis** (`analysis/`) y **activos** (`assets/`) no son adornos, sino manifestaciones estructurales del principio científico de revisión crítica.
-- **🏗️ Extensibilidad:**
+- **🏗️ [Extensibilidad][EXTENSIBLE]:**
   La estructura permite escalar desde una exploración individual hasta un repositorio de investigación colaborativa con múltiples líneas simultáneas, sin perder orden ni claridad.
 - **💡 Inteligencia asistida:**
   El diseño anticipa y habilita la integración de asistentes de IA:

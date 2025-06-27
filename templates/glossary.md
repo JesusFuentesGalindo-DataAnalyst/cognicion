@@ -2,238 +2,34 @@
 
 <!-- ============================== -->
 
-## Índice alfabético
+## 📑 Índice alfabético
+
+| -       | -       | -       | -       | -       | -       | -       | -       | -       |
+| ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- |
+| [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i) |
+| [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [Ñ](#ñ) | [O](#o) | [P](#p) | [Q](#q) |
+| [R](#r) | [S](#s) | [T](#t) | [U](#u) | [V](#v) | [W](#w) | [X](#x) | [Y](#y) | [Z](#z) |
+
+[INDEX]: #-índice-alfabético
+[M360]: ../README.md 'metodo360'
+[INI]: ./README.md 'Inicio'
+
+💡 **Enlaces de interés:**  
+🔗 [metodo360][M360] | [Inicio][INI]
 
 <!-- ============================== -->
 
-<table>
-    <tr>
-        <td>
-            <details>
-                <summary> <a href="#a"><strong>A</strong></a> </summary>
-                <ul>
-                    <li>
-                        <a href="#id">Concepto</a>
-                    </li>
-                </ul>
-            </details>
-            <details>
-                <summary> <a href="#b"><strong>B</strong></a> </summary>
-                <ul>
-                    <li>
-                        <a href="#"></a>
-                    </li>
-                </ul>
-            </details>
-            <details>
-                <summary> <a href="#c"><strong>C</strong></a> </summary>
-                <ul>
-                    <li>
-                        <a href="#"></a>
-                    </li>
-                </ul>
-            </details>
-            <details>
-                <summary> <a href="#d"><strong>D</strong></a> </summary>
-                <ul>
-                    <li>
-                        <a href="#"></a>
-                    </li>
-                </ul>
-            </details>
-            <details>
-                <summary> <a href="#e"><strong>E</strong></a> </summary>
-                <ul>
-                    <li>
-                        <a href="#"></a>
-                    </li>
-                </ul>
-            </details>
-            <details>
-                <summary> <a href="#f"><strong>F</strong></a> </summary>
-                <ul>
-                    <li>
-                        <a href="#"></a>
-                    </li>
-                </ul>
-            </details>
-            <details>
-                <summary> <a href="#g"><strong>G</strong></a> </summary>
-                <ul>
-                    <li>
-                        <a href="#"></a>
-                    </li>
-                </ul>
-            </details>
-        </td>
-        <td>
-            <details>
-                <summary> <a href="#h"><strong>H</strong></a> </summary>
-                <ul>
-                    <li>
-                        <a href="#">Concepto</a>
-                    </li>
-                </ul>
-            </details>
-            <details>
-                <summary> <a href="#i"><strong>I</strong></a> </summary>
-                <ul>
-                    <li>
-                        <a href="#">Concepto</a>
-                    </li>
-                </ul>
-            </details>
-            <details>
-                <summary> <a href="#j"><strong>J</strong></a> </summary>
-                <ul>
-                    <li>
-                        <a href="#"></a>
-                    </li>
-                </ul>
-            </details>
-            <details>
-                <summary> <a href="#k"><strong>K</strong></a> </summary>
-                <ul>
-                    <li>
-                        <a href="#"></a>
-                    </li>
-                </ul>
-            </details>
-            <details>
-                <summary> <a href="#l"><strong>L</strong></a> </summary>
-                <ul>
-                    <li>
-                        <a href="#"></a>
-                    </li>
-                </ul>
-            </details>
-            <details>
-                <summary> <a href="#m"><strong>M</strong></a> </summary>
-                <ul>
-                    <li>
-                        <a href="#"></a>
-                    </li>
-                </ul>
-            </details>
-            <details>
-                <summary> <a href="#n"><strong>N</strong></a> </summary>
-                <ul>
-                    <li>
-                        <a href="#"></a>
-                    </li>
-                </ul>
-            </details>
-        </td>
-        <td>
-            <details>
-                <summary> <a href="#ñ"><strong>Ñ</strong></a> </summary>
-                <ul>
-                    <li>
-                        <a href="#"></a>
-                    </li>
-                </ul>
-            </details>
-            <details>
-                <summary> <a href="#o"><strong>O</strong></a> </summary>
-                <ul>
-                    <li>
-                        <a href="#"></a>
-                    </li>
-                </ul>
-            </details>
-            <details>
-                <summary> <a href="#p"><strong>P</strong></a> </summary>
-                <ul>
-                    <li>
-                        <a href="#"></a>
-                    </li>
-                </ul>
-            </details>
-            <details>
-                <summary> <a href="#q"><strong>Q</strong></a> </summary>
-                <ul>
-                    <li>
-                        <a href="#"></a>
-                    </li>
-                </ul>
-            </details>
-            <details>
-                <summary> <a href="#r"><strong>R</strong></a> </summary>
-                <ul>
-                    <li>
-                        <a href="#"></a>
-                    </li>
-                </ul>
-            </details>
-            <details>
-                <summary> <a href="#s"><strong>S</strong></a> </summary>
-                <ul>
-                    <li>
-                        <a href="#sistematizar">Sistematizar</a>
-                    </li>
-                </ul>
-            </details>
-            <details>
-                <summary> <a href="#t"><strong>T</strong></a> </summary>
-                <ul>
-                    <li>
-                        <a href="#"></a>
-                    </li>
-                </ul>
-            </details>
-        </td>
-        <td>
-            <details>
-                <summary> <a href="#u"><strong>U</strong></a> </summary>
-                <ul>
-                    <li>
-                        <a href="#"></a>
-                    </li>
-                </ul>
-            </details>
-            <details>
-                <summary> <a href="#v"><strong>V</strong></a> </summary>
-                <ul>
-                    <li>
-                        <a href="#"></a>
-                    </li>
-                </ul>
-            </details>
-            <details>
-                <summary> <a href="#w"><strong>W</strong></a> </summary>
-                <ul>
-                    <li>
-                        <a href="#"></a>
-                    </li>
-                </ul>
-            </details>
-            <details>
-                <summary> <a href="#x"><strong>X</strong></a> </summary>
-                <ul>
-                    <li>
-                        <a href="#"></a>
-                    </li>
-                </ul>
-            </details>
-            <details>
-                <summary> <a href="#y"><strong>Y</strong></a> </summary>
-                <ul>
-                    <li>
-                        <a href="#"></a>
-                    </li>
-                </ul>
-            </details>
-            <details>
-                <summary> <a href="#z"><strong>Z</strong></a> </summary>
-                <ul>
-                    <li>
-                        <a href="#"></a>
-                    </li>
-                </ul>
-            </details>
-        </td>
-    </tr>
-</table>
+---
+
+<!-- ============================== -->
+
+## Categorías
+
+> 💡 Permite explorar el glosario desde diferentes enfoques.
+
+[`etiqueta...`](./categories/[NOMBRE_CATEGORIA...].md)
+
+<!-- ============================== -->
 
 ---
 
@@ -241,592 +37,339 @@
 
 ## A
 
-<!-- ============================== -->
-
-### Definición {#id}
+### Concepto 1
 
 <details>
-<summary>Términos relacionados</summary>
 
-- [Otro término]()
-- [Otro término]()
+**Conceptos relacionados:**
+
+[`Concepto 2`](#concepto-2)
+
+**Definición:**
+
+_[Definición...]_
+
+**Contextos de uso:**
+
+- _[Contexto...]_
+
+🔗 [Definición extendida][DECONCEPTO1] | [Índice][INDEX]
+
+[DECONCEPTO1]: LINK
 
 </details>
 
-Definición...
+### Concepto 2
 
-[Definición extendida]() | [Contexto de uso]() | [Volver al índice](#índice-alfabético)
+<details>
 
----
+**Conceptos relacionados:**
+
+[`Concepto 1`](#concepto-1)
+
+**Definición:**
+
+_[Definición...]_
+
+**Contextos de uso:**
+
+- _[Contexto...]_
+
+[Definición extendida][DECONCEPTO2] | [Índice][INDEX]
+
+[DECONCEPTO2]: LINK
+
+</details>
+
+💡 **Enlaces de interés:**  
+🔗 [metodo360][M360] | [Inicio][INI] | [Índice][INDEX]
 
 <!-- ============================== -->
+
+---
 
 ## B
 
 <!-- ============================== -->
 
-### Definición {#id}
-
-<details>
-<summary>Términos relacionados</summary>
-
-- [Otro término]()
-- [Otro término]()
-
-</details>
-
-Definición...
-
-[Definición extendida]() | [Contexto de uso]() | [Volver al índice](#índice-alfabético)
-
----
+💡 **Enlaces de interés:**  
+🔗 [metodo360][M360] | [Inicio][INI] | [Índice][INDEX]
 
 <!-- ============================== -->
+
+---
 
 ## C
 
 <!-- ============================== -->
 
-### Definición {#id}
-
-<details>
-<summary>Términos relacionados</summary>
-
-- [Otro término]()
-- [Otro término]()
-
-</details>
-
-Definición...
-
-[Definición extendida]() | [Contexto de uso]() | [Volver al índice](#índice-alfabético)
-
----
+💡 **Enlaces de interés:**  
+🔗 [metodo360][M360] | [Inicio][INI] | [Índice][INDEX]
 
 <!-- ============================== -->
+
+---
 
 ## D
 
 <!-- ============================== -->
 
-### Definición {#id}
-
-<details>
-<summary>Términos relacionados</summary>
-
-- [Otro término]()
-- [Otro término]()
-
-</details>
-
-Definición...
-
-[Definición extendida]() | [Contexto de uso]() | [Volver al índice](#índice-alfabético)
-
----
+💡 **Enlaces de interés:**  
+🔗 [metodo360][M360] | [Inicio][INI] | [Índice][INDEX]
 
 <!-- ============================== -->
+
+---
 
 ## E
 
 <!-- ============================== -->
 
-### Definición {#id}
-
-<details>
-<summary>Términos relacionados</summary>
-
-- [Otro término]()
-- [Otro término]()
-
-</details>
-
-Definición...
-
-[Definición extendida]() | [Contexto de uso]() | [Volver al índice](#índice-alfabético)
-
----
+💡 **Enlaces de interés:**  
+🔗 [metodo360][M360] | [Inicio][INI] | [Índice][INDEX]
 
 <!-- ============================== -->
+
+---
 
 ## F
 
 <!-- ============================== -->
 
-### Definición {#id}
-
-<details>
-<summary>Términos relacionados</summary>
-
-- [Otro término]()
-- [Otro término]()
-
-</details>
-
-Definición...
-
-[Definición extendida]() | [Contexto de uso]() | [Volver al índice](#índice-alfabético)
-
----
+💡 **Enlaces de interés:**  
+🔗 [metodo360][M360] | [Inicio][INI] | [Índice][INDEX]
 
 <!-- ============================== -->
+
+---
 
 ## G
 
 <!-- ============================== -->
 
-### Definición {#id}
-
-<details>
-<summary>Términos relacionados</summary>
-
-- [Otro término]()
-- [Otro término]()
-
-</details>
-
-Definición...
-
-[Definición extendida]() | [Contexto de uso]() | [Volver al índice](#índice-alfabético)
-
----
+💡 **Enlaces de interés:**  
+🔗 [metodo360][M360] | [Inicio][INI] | [Índice][INDEX]
 
 <!-- ============================== -->
+
+---
 
 ## H
 
 <!-- ============================== -->
 
-### Definición {#id}
-
-<details>
-<summary>Términos relacionados</summary>
-
-- [Otro término]()
-- [Otro término]()
-
-</details>
-
-Definición...
-
-[Definición extendida]() | [Contexto de uso]() | [Volver al índice](#índice-alfabético)
-
----
+💡 **Enlaces de interés:**  
+🔗 [metodo360][M360] | [Inicio][INI] | [Índice][INDEX]
 
 <!-- ============================== -->
+
+---
 
 ## I
 
 <!-- ============================== -->
 
-### Definición {#id}
-
-<details>
-<summary>Términos relacionados</summary>
-
-- [Otro término]()
-- [Otro término]()
-
-</details>
-
-Definición...
-
-[Definición extendida]() | [Contexto de uso]() | [Volver al índice](#índice-alfabético)
-
----
+💡 **Enlaces de interés:**  
+🔗 [metodo360][M360] | [Inicio][INI] | [Índice][INDEX]
 
 <!-- ============================== -->
+
+---
 
 ## J
 
 <!-- ============================== -->
 
-### Definición {#id}
-
-<details>
-<summary>Términos relacionados</summary>
-
-- [Otro término]()
-- [Otro término]()
-
-</details>
-
-Definición...
-
-[Definición extendida]() | [Contexto de uso]() | [Volver al índice](#índice-alfabético)
-
----
+💡 **Enlaces de interés:**  
+🔗 [metodo360][M360] | [Inicio][INI] | [Índice][INDEX]
 
 <!-- ============================== -->
+
+---
 
 ## K
 
 <!-- ============================== -->
 
-### Definición {#id}
-
-<details>
-<summary>Términos relacionados</summary>
-
-- [Otro término]()
-- [Otro término]()
-
-</details>
-
-Definición...
-
-[Definición extendida]() | [Contexto de uso]() | [Volver al índice](#índice-alfabético)
-
----
+💡 **Enlaces de interés:**  
+🔗 [metodo360][M360] | [Inicio][INI] | [Índice][INDEX]
 
 <!-- ============================== -->
+
+---
 
 ## L
 
 <!-- ============================== -->
 
-### Definición {#id}
-
-<details>
-<summary>Términos relacionados</summary>
-
-- [Otro término]()
-- [Otro término]()
-
-</details>
-
-Definición...
-
-[Definición extendida]() | [Contexto de uso]() | [Volver al índice](#índice-alfabético)
-
----
+💡 **Enlaces de interés:**  
+🔗 [metodo360][M360] | [Inicio][INI] | [Índice][INDEX]
 
 <!-- ============================== -->
+
+---
 
 ## M
 
 <!-- ============================== -->
 
-### Definición {#id}
-
-<details>
-<summary>Términos relacionados</summary>
-
-- [Otro término]()
-- [Otro término]()
-
-</details>
-
-Definición...
-
-[Definición extendida]() | [Contexto de uso]() | [Volver al índice](#índice-alfabético)
-
----
+💡 **Enlaces de interés:**  
+🔗 [metodo360][M360] | [Inicio][INI] | [Índice][INDEX]
 
 <!-- ============================== -->
+
+---
 
 ## N
 
 <!-- ============================== -->
 
-### Definición {#id}
-
-<details>
-<summary>Términos relacionados</summary>
-
-- [Otro término]()
-- [Otro término]()
-
-</details>
-
-Definición...
-
-[Definición extendida]() | [Contexto de uso]() | [Volver al índice](#índice-alfabético)
-
----
+💡 **Enlaces de interés:**  
+🔗 [metodo360][M360] | [Inicio][INI] | [Índice][INDEX]
 
 <!-- ============================== -->
+
+---
 
 ## Ñ
 
 <!-- ============================== -->
 
-### Definición {#id}
-
-<details>
-<summary>Términos relacionados</summary>
-
-- [Otro término]()
-- [Otro término]()
-
-</details>
-
-Definición...
-
-[Definición extendida]() | [Contexto de uso]() | [Volver al índice](#índice-alfabético)
-
----
+💡 **Enlaces de interés:**  
+🔗 [metodo360][M360] | [Inicio][INI] | [Índice][INDEX]
 
 <!-- ============================== -->
+
+---
 
 ## O
 
 <!-- ============================== -->
 
-### Definición {#id}
-
-<details>
-<summary>Términos relacionados</summary>
-
-- [Otro término]()
-- [Otro término]()
-
-</details>
-
-Definición...
-
-[Definición extendida]() | [Contexto de uso]() | [Volver al índice](#índice-alfabético)
-
----
+💡 **Enlaces de interés:**  
+🔗 [metodo360][M360] | [Inicio][INI] | [Índice][INDEX]
 
 <!-- ============================== -->
+
+---
 
 ## P
 
 <!-- ============================== -->
 
-### Definición {#id}
-
-<details>
-<summary>Términos relacionados</summary>
-
-- [Otro término]()
-- [Otro término]()
-
-</details>
-
-Definición...
-
-[Definición extendida]() | [Contexto de uso]() | [Volver al índice](#índice-alfabético)
-
----
+💡 **Enlaces de interés:**  
+🔗 [metodo360][M360] | [Inicio][INI] | [Índice][INDEX]
 
 <!-- ============================== -->
+
+---
 
 ## Q
 
 <!-- ============================== -->
 
-### Definición {#id}
-
-<details>
-<summary>Términos relacionados</summary>
-
-- [Otro término]()
-- [Otro término]()
-
-</details>
-
-Definición...
-
-[Definición extendida]() | [Contexto de uso]() | [Volver al índice](#índice-alfabético)
-
----
+💡 **Enlaces de interés:**  
+🔗 [metodo360][M360] | [Inicio][INI] | [Índice][INDEX]
 
 <!-- ============================== -->
+
+---
 
 ## R
 
 <!-- ============================== -->
 
-### Definición {#id}
-
-<details>
-<summary>Términos relacionados</summary>
-
-- [Otro término]()
-- [Otro término]()
-
-</details>
-
-Definición...
-
-[Definición extendida]() | [Contexto de uso]() | [Volver al índice](#índice-alfabético)
-
----
+💡 **Enlaces de interés:**  
+🔗 [metodo360][M360] | [Inicio][INI] | [Índice][INDEX]
 
 <!-- ============================== -->
+
+---
 
 ## S
 
 <!-- ============================== -->
 
-### Definición {#id}
-
-<details>
-<summary>Términos relacionados</summary>
-
-- [Otro término]()
-- [Otro término]()
-
-</details>
-
-Definición...
-
-[Definición extendida]() | [Contexto de uso]() | [Volver al índice](#índice-alfabético)
-
----
+💡 **Enlaces de interés:**  
+🔗 [metodo360][M360] | [Inicio][INI] | [Índice][INDEX]
 
 <!-- ============================== -->
+
+---
 
 ## T
 
 <!-- ============================== -->
 
-### Definición {#id}
-
-<details>
-<summary>Términos relacionados</summary>
-
-- [Otro término]()
-- [Otro término]()
-
-</details>
-
-Definición...
-
-[Definición extendida]() | [Contexto de uso]() | [Volver al índice](#índice-alfabético)
-
----
+💡 **Enlaces de interés:**  
+🔗 [metodo360][M360] | [Inicio][INI] | [Índice][INDEX]
 
 <!-- ============================== -->
+
+---
 
 ## U
 
 <!-- ============================== -->
 
-### Definición {#id}
-
-<details>
-<summary>Términos relacionados</summary>
-
-- [Otro término]()
-- [Otro término]()
-
-</details>
-
-Definición...
-
-[Definición extendida]() | [Contexto de uso]() | [Volver al índice](#índice-alfabético)
-
----
+💡 **Enlaces de interés:**  
+🔗 [metodo360][M360] | [Inicio][INI] | [Índice][INDEX]
 
 <!-- ============================== -->
+
+---
 
 ## V
 
 <!-- ============================== -->
 
-### Definición {#id}
-
-<details>
-<summary>Términos relacionados</summary>
-
-- [Otro término]()
-- [Otro término]()
-
-</details>
-
-Definición...
-
-[Definición extendida]() | [Contexto de uso]() | [Volver al índice](#índice-alfabético)
-
----
+💡 **Enlaces de interés:**  
+🔗 [metodo360][M360] | [Inicio][INI] | [Índice][INDEX]
 
 <!-- ============================== -->
+
+---
 
 ## W
 
 <!-- ============================== -->
 
-### Definición {#id}
-
-<details>
-<summary>Términos relacionados</summary>
-
-- [Otro término]()
-- [Otro término]()
-
-</details>
-
-Definición...
-
-[Definición extendida]() | [Contexto de uso]() | [Volver al índice](#índice-alfabético)
-
----
+💡 **Enlaces de interés:**  
+🔗 [metodo360][M360] | [Inicio][INI] | [Índice][INDEX]
 
 <!-- ============================== -->
+
+---
 
 ## X
 
 <!-- ============================== -->
 
-### Definición {#id}
-
-<details>
-<summary>Términos relacionados</summary>
-
-- [Otro término]()
-- [Otro término]()
-
-</details>
-
-Definición...
-
-[Definición extendida]() | [Contexto de uso]() | [Volver al índice](#índice-alfabético)
-
----
+💡 **Enlaces de interés:**  
+🔗 [metodo360][M360] | [Inicio][INI] | [Índice][INDEX]
 
 <!-- ============================== -->
+
+---
 
 ## Y
 
 <!-- ============================== -->
 
-### Definición {#id}
-
-<details>
-<summary>Términos relacionados</summary>
-
-- [Otro término]()
-- [Otro término]()
-
-</details>
-
-Definición...
-
-[Definición extendida]() | [Contexto de uso]() | [Volver al índice](#índice-alfabético)
-
----
+💡 **Enlaces de interés:**  
+🔗 [metodo360][M360] | [Inicio][INI] | [Índice][INDEX]
 
 <!-- ============================== -->
+
+---
 
 ## Z
 
 <!-- ============================== -->
 
-### Definición {#id}
+💡 **Enlaces de interés:**  
+🔗 [metodo360][M360] | [Inicio][INI] | [Índice][INDEX]
 
-<details>
-<summary>Términos relacionados</summary>
-
-- [Otro término]()
-- [Otro término]()
-
-</details>
-
-Definición...
-
-[Definición extendida]() | [Contexto de uso]() | [Volver al índice](#índice-alfabético)
+<!-- ============================== -->
 
 ---

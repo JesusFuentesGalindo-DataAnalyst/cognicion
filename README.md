@@ -1,6 +1,6 @@
 # 🧠 metodo360
 
-_Conocer con método · Crear con fundamento · Conectar con propósito_
+_Conocer con [método][METODO] · Crear con [fundamento][FUNDAMENTO] · Conectar con [propósito][PROPOSITO]_
 
 ## 📑 Índice
 
@@ -38,6 +38,24 @@ _Conocer con método · Crear con fundamento · Conectar con propósito_
 [DGHC]: https://docs.github.com/es/copilot/using-github-copilot 'Documentación oficial de GitHub Copilot'
 [GCGPT]: https://help.openai.com/en/collections/3742473-chatgpt 'Documentación oficial ChatGPT'
 
+<!-- Glosario -->
+
+[METODO]: ./researches/glossary.md#método
+[FUNDAMENTO]: ./researches/glossary.md#fundamento
+[PROPOSITO]: ./researches/glossary.md#propósito
+[REPOSITORIO]: ./researches/glossary.md#repositorio
+[ESTRUCTURADA]: ./researches/glossary.md#estructurado-da
+[RIGOR]: ./researches/glossary.md#rigor
+[PARADIGMAS]: ./researches/glossary.md#paradigma
+[PROCESO]: ./researches/glossary.md#proceso
+[DINAMICO]: ./researches/glossary.md#dinámico-ca
+[EVOLUTIVO]: ./researches/glossary.md#evolutivo-va
+[REFINAR]: ./researches/glossary.md#refinar
+[EPISTEMOLOGIA]: ./researches/glossary.md#epistemología
+[SEMANTICO]: ./researches/glossary.md#semántico-ca
+
+<!-- ================= -->
+
 💡 **Enlaces de interés:**  
 🔗 [Documentación][DOCS] | [Cómo contribuir][CONTRIB] | [Asistente IA][ASAI] | [Investigaciones][RESEARCHES]
 
@@ -45,22 +63,22 @@ _Conocer con método · Crear con fundamento · Conectar con propósito_
 
 ## 📌 Introducción
 
-¡Bienvenid@! Al repositorio oficial de **`metodo360`** 👋  
-Este es el lugar donde comienza tu viaje para **crear, organizar y compartir conocimiento** de manera clara, estructurada y con rigor.
+¡Bienvenid@! Al [repositorio][REPOSITORIO] oficial de **`metodo360`** 👋  
+Este es el lugar donde comienza tu viaje para **crear, organizar y compartir conocimiento** de manera clara, [estructurada][ESTRUCTURADA] y con [rigor][RIGOR].
 
 **`metodo360`** es una herramienta que te acompaña paso a paso para desarrollar investigaciones o proyectos de conocimiento, sin importar si estás empezando o si ya tienes experiencia. Está pensada para jóvenes, docentes, equipos, investigadoras, estudiantes, o simplemente personas curiosas como tú que quieren aprender a investigar **de manera metódica y rigurosa** (en la medida de lo posible).
 
 Con `metodo360` puedes:
 
-- 🧠 Elegir cómo quieres pensar tu investigación (existen diferentes formas de conocer, llamadas _paradigmas_).
-- ✍️ Seguir una plantilla sencilla que guía tu proceso de principio a fin.
+- 🧠 Elegir cómo quieres pensar tu investigación (existen diferentes formas de conocer, llamadas _[paradigmas][PARADIGMAS]_).
+- ✍️ Seguir una plantilla sencilla que guía tu [proceso][PROCESO] de principio a fin.
 - 🧩 Usar ejemplos, referencias y glosarios que te ayudan a comprender cada paso.
-- 🛠️ Guardar y versionar tu trabajo con **Git/GitHub** (Permitiendo que el conocimiento sea dinámico, evolutivo y autorefinable).
+- 🛠️ Guardar y versionar tu trabajo con **Git/GitHub** (Permitiendo que el conocimiento sea [dinámico][DINAMICO], [evolutivo][EVOLUTIVO] y [refinable][REFINAR]).
 - 🌐 Compartir tu conocimiento con otras personas y conectarlo a una red más grande.
 
-Esta herramienta está diseñada para **asistir en la creación, documentación y validación de investigaciones** a partir de múltiples paradigmas epistemológicos. Esta plataforma combina principios filosóficos, metodológicos y tecnológicos para transformar el acto de investigar en un proceso guiado, colaborativo y estructurado.
+Esta herramienta está diseñada para **asistir en la creación, documentación y validación de investigaciones** a partir de múltiples paradigmas [epistemológicos][EPISTEMOLOGIA]. Esta plataforma combina principios filosóficos, metodológicos y tecnológicos para transformar el acto de investigar en un proceso guiado, colaborativo y estructurado.
 
-> 📝 **Nota**: _Este repositorio no solo contiene el código y lógica de la herramienta, sino también su **fundamento teórico**, su **plantilla base de investigación**, su **glosario de conceptos** y una propuesta de **entrelazado semántico entre investigaciones**_.
+> 📝 **Nota**: _Este repositorio no solo contiene el código y lógica de la herramienta, sino también su **fundamento teórico**, su **plantilla base de investigación**, su **glosario de conceptos** y una propuesta de **entrelazado [semántico][SEMANTICO] entre investigaciones**_.
 
 ### 🔍 ¿En qué se basa?
 
@@ -120,7 +138,7 @@ El objetivo principal de `metodo360` es ayudarte a **crear, organizar y comparti
 
 ### ✅ Objetivos específicos
 
-- 📚 Brindar una **plantilla base** para desarrollar investigaciones o proyectos de conocimiento desde diferentes formas de ver el mundo (paradigmas).
+- 📚 Brindar una **plantilla base** para desarrollar investigaciones o proyectos de conocimiento desde diferentes formas de ver el mundo ([paradigmas][PARADIGMAS]).
 - 🔍 Facilitar la **elección de metodologías y niveles de rigurosidad**, según lo que quieras lograr con tu investigación.
 - 🧭 Proporcionar herramientas y ejemplos que te orienten paso a paso, desde la idea inicial hasta el resultado final.
 - 🛠️ Integrar tu proceso con **Git y GitHub**, para que puedas guardar tus avances, compartirlos y colaborar con otras personas, así como evolucionar tu investigación.
@@ -283,6 +301,7 @@ metodo360/                  # Raíz del repositorio.
 - [Automatización][AUT]
 - [Investigaciones][RESEARCHES]
 - [Investigadores][RESEARCHERS]
+- [Glosario][GLOSS]
 
 💡 **Enlaces de interés:**  
 🔗 [Documentación][DOCS] | [Cómo contribuir][CONTRIB] | [Asistente IA][ASAI] | [Investigaciones][RESEARCHES] | _[Índice][INDEX]_
