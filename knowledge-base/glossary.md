@@ -1,4 +1,4 @@
-# Glosario
+# Glosario General
 
 <!-- ============================== -->
 
@@ -11,11 +11,11 @@
 | [R](#r) | [S](#s) | [T](#t) | [U](#u) | [V](#v) | [W](#w) | [X](#x) | [Y](#y) | [Z](#z) |
 
 [INDEX]: #-índice-alfabético
-[M360]: ../README.md 'metodo360'
+[COGNI]: ../README.md 'cognición'
 [INI]: ./README.md 'Inicio'
 
 💡 **Enlaces de interés:**  
-🔗 [metodo360][M360] | [Inicio][INI]
+🔗 [`cogición`][COGNI] | [Inicio][INI]
 
 <!-- ============================== -->
 
@@ -27,10 +27,10 @@
 
 > 💡 Permite explorar el glosario desde diferentes enfoques.
 
-[`metodo360`](./categories/metodo360.md)
+[`cognición`](./glossary-categories/cognicion.md)
 
 💡 **Enlaces de interés:**  
-🔗 [metodo360][M360] | [Inicio][INI]
+🔗 [`cognición`][COGNI] | [Inicio][INI] | [Índice][INDEX]
 
 <!-- ============================== -->
 
@@ -46,7 +46,7 @@
 
 **Conceptos relacionados:**
 
-[`Sin relación`](#)
+`Sin relación`
 
 **Definición:**
 
@@ -64,7 +64,7 @@ _Del griego autonomía, es la capacidad de gobernarse por sí mismo, sin depende
 </details>
 
 💡 **Enlaces de interés:**  
-🔗 [metodo360][M360] | [Inicio][INI] | [Índice][INDEX]
+🔗 [`cognición`][COGNI] | [Inicio][INI] | [Índice][INDEX]
 
 <!-- ============================== -->
 
@@ -75,7 +75,7 @@ _Del griego autonomía, es la capacidad de gobernarse por sí mismo, sin depende
 <!-- ============================== -->
 
 💡 **Enlaces de interés:**  
-🔗 [metodo360][M360] | [Inicio][INI] | [Índice][INDEX]
+🔗 [`cognición`][COGNI] | [Inicio][INI] | [Índice][INDEX]
 
 <!-- ============================== -->
 
@@ -85,13 +85,82 @@ _Del griego autonomía, es la capacidad de gobernarse por sí mismo, sin depende
 
 <!-- ============================== -->
 
+### característico, ca
+
+<details>
+
+**Conceptos relacionados:**
+
+`Sin relación`
+
+**Definición:**
+
+_Según la Real Academia Española, es una cualidad que da carácter o sirve para distinguir a alguien o algo de sus semejantes. Se refiere a un rasgo propio, distintivo o representativo que permite reconocer o clasificar un objeto, sujeto o sistema._
+
+**Contextos de uso:**
+
+- _En epistemología:_ “Al definir un concepto, deben identificarse sus características necesarias y suficientes para asegurar coherencia y aplicabilidad.”
+
+🔗 [Definición extendida][CARACTERISTICA] | [Índice][INDEX]
+
+[CARACTERISTICA]: https://dle.rae.es/caracter%C3%ADstico
+
+</details>
+
+### catalizador, ra
+
+<details>
+
+**Conceptos relacionados:**
+
+`Sin relaciones`
+
+**Definición:**
+
+_Elemento (sustancia, agente o condición) que, sin consumirse ni transformarse esencialmente, acelera, desencadena o facilita un proceso determinado._
+
+**Contextos de uso:**
+
+- _En química:_ "un catalizador es una sustancia que incrementa la velocidad de una reacción sin alterarse al final del proceso."
+- _En procesos sociales:_ "una persona puede actuar como catalizador al acelerar transformaciones en una comunidad."
+- _En epistemología:_ "ciertos eventos, debates o marcos conceptuales pueden funcionar como catalizadores del cambio paradigmático."
+
+🔗 [Definición extendida][CATALIZADOR] | [Índice][INDEX]
+
+[CATALIZADOR]: https://dle.rae.es/catalizador
+
+</details>
+
+### cognición
+
+<details>
+
+**Conceptos relacionados:**
+
+[`conocimiento`](#conocimiento)
+
+**Definición:**
+
+_Acción de conocer, esto es, el conjunto de procesos mentales implicados en el conocimiento y la comprensión del mundo._
+
+**Contextos de uso:**
+
+- _En psicología cognitiva:_ "la cognición abarca procesos como la percepción, la memoria, el razonamiento y el lenguaje."
+- _En epistemología:_ "se analiza la cognición como una dimensión crítica en la construcción del conocimiento válido."
+
+🔗 [Definición extendida][COGNICION] | [Índice][INDEX]
+
+[COGNICION]: https://dle.rae.es/cognición
+
+</details>
+
 ### colaborar
 
 <details>
 
 **Conceptos relacionados:**
 
-[`Sin relación`](#)
+[`objetivo`](#objetivo)
 
 **Definición:**
 
@@ -108,8 +177,80 @@ _Del latín collaborāre, significa trabajar con otra u otras personas en la rea
 
 </details>
 
+### conocer
+
+<details>
+
+**Conceptos relacionados:**
+
+`Sin relación`
+
+**Definición:**
+
+_Según la Real Academia Española, significa averiguar por el ejercicio de las facultades intelectuales la naturaleza, cualidades y relaciones de las cosas. También puede referirse a entender, distinguir, percibir, tener trato con alguien o experimentar algo._
+
+**Contextos de uso:**
+
+- _En epistemología:_ “Conocer un fenómeno implica interpretarlo dentro de un marco teórico que permita justificar su comprensión.”
+
+🔗 [Definición extendida][CONOCER] | [Índice][INDEX]
+
+[CONOCER]: https://dle.rae.es/conocer
+
+</details>
+
+### conocimiento
+
+<details>
+
+**Conceptos relacionados:**
+
+[`conocer`](#conocer)
+
+**Definición:**
+
+- _Según la Real Academia Española, es la acción y efecto de conocer. Designa tanto el entendimiento o razón natural como la noción o noticia elemental de algo._
+- _También puede referirse al conjunto de cosas que se conocen._
+- _Al estado consciente de una persona respecto a lo que la rodea._
+- _O incluso a documentos formales en contextos comerciales._
+
+**Contextos de uso:**
+
+- _En epistemología:_ “El conocimiento se distingue de la mera creencia por su fundamento en la justificación y la verdad.”
+
+🔗 [Definición extendida][CONOCIMIENTO] | [Índice][INDEX]
+
+[CONOCIMIENTO]: https://dle.rae.es/conocimiento
+
+</details>
+
+### convergencia
+
+<details>
+
+**Conceptos relacionados:**
+
+`Sin relación`
+
+**Definición:**
+
+_Acción y efecto de converger; esto es, dirigirse hacia un mismo punto, meta o resultado desde distintos orígenes, trayectorias o perspectivas._
+
+**Contextos de uso:**
+
+- _En tecnología:_ "la convergencia digital refiere a la integración de medios, plataformas y dispositivos en un solo ecosistema funcional."
+- _En epistemología:_ "la convergencia se refiere a procesos mediante los cuales distintas disciplinas, marcos teóricos o métodos de validación llegan a consensos o resultados compatibles."
+
+🔗 [Definición extendida][CONVERGENCIA] | [Índice][INDEX]
+
+[CONVERGENCIA]: https://dle.rae.es/convergencia
+
+</details>
+
+¿Quieres que exploremos cómo representar la convergencia como propiedad relacional entre nodos epistémicos en _metodo360_? Sería una gran forma de modelar acuerdos provisionales o validaciones plurales dentro del sistema 🌐📚.
+
 💡 **Enlaces de interés:**  
-🔗 [metodo360][M360] | [Inicio][INI] | [Índice][INDEX]
+🔗 [`cognición`][COGNI] | [Inicio][INI] | [Índice][INDEX]
 
 <!-- ============================== -->
 
@@ -125,7 +266,7 @@ _Del latín collaborāre, significa trabajar con otra u otras personas en la rea
 
 **Conceptos relacionados:**
 
-[`Sin relación`](#)
+`Sin relación`
 
 **Definición:**
 
@@ -135,7 +276,7 @@ _Del griego dynamikós (‘fuerza’), se refiere a aquello relativo al movimien
 
 - _En epistemología:_ “Un sistema de conocimiento dinámico incorpora mecanismos de retroalimentación para ajustarse a nuevas evidencias.”
 - _En pedagogía:_ “El aprendizaje significativo es el resultado de una interacción dinámica entre el sujeto y el contenido.”
-- _En modelos autorefinables:_ “El `metodo360` se concibe como una estructura dinámica, capaz de evolucionar sin perder coherencia estructural.”
+- _En modelos refinables:_ “En `cognición` se concibe como una estructura dinámica, capaz de evolucionar sin perder coherencia estructural.”
 
 🔗 [Definición extendida][DINAMICO] | [Índice][INDEX]
 
@@ -144,7 +285,7 @@ _Del griego dynamikós (‘fuerza’), se refiere a aquello relativo al movimien
 </details>
 
 💡 **Enlaces de interés:**  
-🔗 [metodo360][M360] | [Inicio][INI] | [Índice][INDEX]
+🔗 [`cognición`][COGNI] | [Inicio][INI] | [Índice][INDEX]
 
 <!-- ============================== -->
 
@@ -160,7 +301,7 @@ _Del griego dynamikós (‘fuerza’), se refiere a aquello relativo al movimien
 
 **Conceptos relacionados:**
 
-[`Sin relación`](#concepto-2)
+`Sin relación`
 
 **Definición:**
 
@@ -183,7 +324,7 @@ _Del griego epistḗmē (‘conocimiento’) y -logía (‘tratado’), es la ra
 
 **Conceptos relacionados:**
 
-[`Sin relación`](#)
+`Sin relación`
 
 **Definición:**
 
@@ -202,13 +343,58 @@ Implica que algo no está simplemente formado, sino que su forma tiene orden int
 
 </details>
 
+### estudio
+
+<details>
+
+**Conceptos relacionados:**
+
+[`conocimiento`](#conocimiento),
+
+**Definición:**
+
+_Del latín studium, designa el esfuerzo que pone el entendimiento al aplicarse a conocer algo. También alude al trabajo empleado en aprender o cultivar una ciencia o arte, así como a la obra en que se analiza una cuestión específica._
+
+**Contextos de uso:**
+
+- _En epistemología:_ “El estudio es la práctica sistemática mediante la cual un sujeto construye conocimiento validable en torno a un objeto definido.”
+- En educación: “El estudio activo implica no solo memorización, sino análisis, apropiación crítica y reformulación significativa del contenido.”
+
+🔗 [Definición extendida][ESTUDIO] | [Índice][INDEX]
+
+[ESTUDIO]: https://dle.rae.es/estudio
+
+</details>
+
+### evolución
+
+<details>
+
+**Conceptos relacionados:**
+
+`Sin relación`
+
+**Definición:**
+
+_Designa el proceso mediante el cual algo cambia, se desarrolla o progresa de forma continua. Puede implicar crecimiento, modificación estructural o adaptación progresiva, tanto en organismos biológicos como en estructuras conceptuales, sociales o epistemológicas._
+
+**Contextos de uso:**
+
+- _En epistemología:_ “Una teoría evoluciona al integrar nuevas evidencias, adaptándose a marcos más amplios sin perder coherencia interna.”
+
+🔗 [Definición extendida][EVOLUCION] | [Índice][INDEX]
+
+[EVOLUCION]: https://dle.rae.es/evoluci%C3%B3n
+
+</details>
+
 ### evolutivo, va
 
 <details>
 
 **Conceptos relacionados:**
 
-[`Sin relación`](#)
+[`evolución`](#evolución)
 
 **Definición:**
 
@@ -217,7 +403,7 @@ _Es un adjetivo que alude a lo relativo a la evolución. En su uso epistemológi
 **Contextos de uso:**
 
 - _En filosofía del conocimiento:_ “Un enfoque evolutivo reconoce que los sistemas epistémicos cambian conforme a las condiciones históricas y culturales.”
-- _En metodologías autoreflexivas:_ “metodo360 se plantea como un esquema evolutivo capaz de incorporar nuevas capas interpretativas mediante procesos iterativos.”
+- _En metodologías autoreflexivas:_ “`cognición` se plantea como un esquema evolutivo capaz de incorporar nuevas capas interpretativas mediante procesos iterativos.”
 
 🔗 [Definición extendida][EVOLUTIVO] | [Índice][INDEX]
 
@@ -231,7 +417,7 @@ _Es un adjetivo que alude a lo relativo a la evolución. En su uso epistemológi
 
 **Conceptos relacionados:**
 
-[`Sin relación`](#)
+`Sin relación`
 
 **Definición:**
 
@@ -240,7 +426,7 @@ _Según la Real Academia Española, es un adjetivo que designa aquello que puede
 **Contextos de uso:**
 
 - _En epistemología aplicada:_ “Un marco extensible permite incorporar nuevos niveles de análisis sin desestructurar su coherencia interna.”
-- _En diseño de sistemas:_ “La arquitectura del metodo360 fue pensada como una estructura extensible, capaz de integrar nodos adicionales a medida que surgen nuevas categorías semánticas o epistémicas.”
+- _En diseño de sistemas:_ “La arquitectura de `cognición` fue pensada como una estructura extensible, capaz de integrar nodos adicionales a medida que surgen nuevas categorías semánticas o epistémicas.”
 - _En lógica del conocimiento:_ “La extensibilidad de una teoría depende de su apertura a reformulaciones sin comprometer su base conceptual.”
 
 🔗 [Definición extendida][EXTENSIBLE] | [Índice][INDEX]
@@ -250,7 +436,7 @@ _Según la Real Academia Española, es un adjetivo que designa aquello que puede
 </details>
 
 💡 **Enlaces de interés:**  
-🔗 [metodo360][M360] | [Inicio][INI] | [Índice][INDEX]
+🔗 [`cognición`][COGNI] | [Inicio][INI] | [Índice][INDEX]
 
 <!-- ============================== -->
 
@@ -260,13 +446,36 @@ _Según la Real Academia Española, es un adjetivo que designa aquello que puede
 
 <!-- ============================== -->
 
+### factor, ra
+
+<details>
+
+**Conceptos relacionados:**
+
+`Sin relación`
+
+**Definición:**
+
+_Elemento o condición que contribuye, influye o determina un resultado dentro de un conjunto de variables o circunstancias._
+
+**Contextos de uso:**
+
+- _En matemática_ "un factor es cada uno de los términos que, al multiplicarse, conforman un producto."
+- _En epistemología_ "un **factor** puede aludir a condiciones que afectan la generación, validez o aceptación del conocimiento."\_
+
+🔗 [Definición extendida][FACTOR] | [Índice][INDEX]
+
+[FACTOR]: https://dle.rae.es/factor
+
+</details>
+
 ### fundamento
 
 <details>
 
 **Conceptos relacionados:**
 
-[`Sin relación`](#)
+`Sin relación`
 
 **Definición:**
 
@@ -283,7 +492,7 @@ _Razón principal o motivo con que se pretende afianzar y asegurar algo._
 </details>
 
 💡 **Enlaces de interés:**  
-🔗 [metodo360][M360] | [Inicio][INI] | [Índice][INDEX]
+🔗 [`cognición`][COGNI] | [Inicio][INI] | [Índice][INDEX]
 
 <!-- ============================== -->
 
@@ -294,7 +503,7 @@ _Razón principal o motivo con que se pretende afianzar y asegurar algo._
 <!-- ============================== -->
 
 💡 **Enlaces de interés:**  
-🔗 [metodo360][M360] | [Inicio][INI] | [Índice][INDEX]
+🔗 [`cognición`][COGNI] | [Inicio][INI] | [Índice][INDEX]
 
 <!-- ============================== -->
 
@@ -304,8 +513,30 @@ _Razón principal o motivo con que se pretende afianzar y asegurar algo._
 
 <!-- ============================== -->
 
+### holístico
+
+<details>
+
+**Conceptos relacionados:**
+
+`Sin relación`
+
+**Definición:**
+
+_Perteneciente o relativo al holismo; es decir, que considera los fenómenos como totalidades integradas cuyas propiedades no pueden reducirse únicamente a la suma de sus partes._
+
+**Contextos de uso:**
+
+- _En epistemología:_ "una teoría holística del conocimiento —como la defendida por Quine— plantea que las creencias no se validan aisladamente, sino en conjunto, como parte de un sistema interrelacionado."
+
+🔗 [Definición extendida][HOLISTICO] | [Índice][INDEX]
+
+[HOLISTICO]: https://dle.rae.es/hol%C3%ADstico
+
+</details>
+
 💡 **Enlaces de interés:**  
-🔗 [metodo360][M360] | [Inicio][INI] | [Índice][INDEX]
+🔗 [`cognición`][COGNI] | [Inicio][INI] | [Índice][INDEX]
 
 <!-- ============================== -->
 
@@ -315,13 +546,36 @@ _Razón principal o motivo con que se pretende afianzar y asegurar algo._
 
 <!-- ============================== -->
 
+### integral
+
+<details>
+
+**Conceptos relacionados:**
+
+`Sin relación`
+
+**Definición:**
+
+_Que comprende todos los elementos o dimensiones de algo, sin dejar aspectos excluidos o fragmentados._
+
+**Contextos de uso:**
+
+- _En educación:_ "una formación integral abarca tanto competencias cognitivas como éticas y emocionales."
+- _En epistemología:_ "un enfoque integral del conocimiento busca articular diversas fuentes, métodos y niveles (empírico, conceptual, experiencial) en una estructura coherente y no reduccionista."
+
+🔗 [Definición extendida][INTEGRAL] | [Índice][INDEX]
+
+[INTEGRAL]: https://dle.rae.es/integral
+
+</details>
+
 ### interconectado, da
 
 <details>
 
 **Conceptos relacionados:**
 
-[`Sin relación`](#)
+`Sin relación`
 
 **Definición:**
 
@@ -330,11 +584,34 @@ _según la RAE, es un adjetivo que describe aquello que se encuentra vinculado o
 **Contextos de uso:**
 
 - _En filosofía de la ciencia:_ “El paradigma emergente enfatiza una visión interconectada del saber, donde cada disciplina se nutre del diálogo transdisciplinario.”
-- _En epistemología sistémica:_ “Los nodos de conocimiento deben estar interconectados para favorecer la coherencia y la trazabilidad en modelos complejos como metodo360.”
+- _En epistemología sistémica:_ “Los nodos de conocimiento deben estar interconectados para favorecer la coherencia y la trazabilidad en modelos complejos como `cognición`.”
 
 🔗 [Definición extendida][INTERCONECTADO] | [Índice][INDEX]
 
 [INTERCONECTADO]: https://dle.rae.es/interconectado
+
+</details>
+
+### interoperabilidad
+
+<details>
+
+**Conceptos relacionados:**
+
+`Sin relación`
+
+**Definición:**
+
+_Es la capacidad de dos o más sistemas o componentes para intercambiar información y utilizar la información intercambiada. En su acepción más amplia, implica que organizaciones o sistemas diversos puedan interactuar con objetivos comunes y beneficios mutuos, compartiendo procesos, datos y conocimiento de forma fluida y coordinada._
+
+**Contextos de uso:**
+
+- _En arquitectura de sistemas:_ “Un sistema interoperable se diseña para integrarse con tecnologías heterogéneas sin pérdida de funcionalidad.”
+- _En modelos como `cognición`:_ “La interoperabilidad semántica asegura que los nodos conceptuales puedan conectarse incluso si provienen de marcos epistémicos distintos.”
+
+🔗 [Definición extendida][INTEROPERABILIDAD] | [Índice][INDEX]
+
+[INTEROPERABILIDAD]: https://es.wikipedia.org/wiki/Interoperabilidad
 
 </details>
 
@@ -344,7 +621,7 @@ _según la RAE, es un adjetivo que describe aquello que se encuentra vinculado o
 
 **Conceptos relacionados:**
 
-[`Sin relación`](#)
+`Sin relación`
 
 **Definición:**
 
@@ -353,7 +630,7 @@ _Describe aquello que ocurre entre sujetos, especialmente en el plano del entend
 **Contextos de uso:**
 
 - _En epistemología social:_ “El conocimiento consensual surge de procesos intersubjetivos de validación entre agentes cognitivos.”
-- _En modelos como metodo360:_ “La validación consensual permite que los nodos conceptuales se ajusten mediante diálogo intersubjetivo.”
+- _En modelos como `cognición`:_ “La validación consensual permite que los nodos conceptuales se ajusten mediante diálogo intersubjetivo.”
 
 🔗 [Definición extendida][INTERSUBJETIVA] | [Índice][INDEX]
 
@@ -361,8 +638,52 @@ _Describe aquello que ocurre entre sujetos, especialmente en el plano del entend
 
 </details>
 
+### investigar
+
+<details>
+
+**Conceptos relacionados:**
+
+`Sin relación`
+
+**Definición:**
+
+_Del latín investigāre, designa la acción de indagar para descubrir o aclarar algo. En sentido amplio, implica un proceso sistemático —intelectual y/o experimental— orientado a generar o ampliar conocimientos sobre un objeto determinado._
+
+**Contextos de uso:**
+
+- _En epistemología:_ “Investigar no es solo recopilar datos, sino problematizar, estructurar y validar la construcción del conocimiento.”
+
+🔗 [Definición extendida][INVESTIGAR] | [Índice][INDEX]
+
+[INVESTIGAR]: https://dle.rae.es/investigar
+
+</details>
+
+### investigación
+
+<details>
+
+**Conceptos relacionados:**
+
+[`investigar`](#investigar)
+
+**Definición:**
+
+_Del latín investigatio, es la acción y efecto de investigar. Implica la búsqueda sistemática de conocimientos nuevos, basada en la observación, la formulación de preguntas o hipótesis, la recolección de información y su análisis crítico. Puede adoptar formas diversas según su finalidad (básica, aplicada, exploratoria, etc.) y el campo al que se aplique._
+
+**Contextos de uso:**
+
+- _En epistemología:_ “La investigación constituye el mecanismo mediante el cual el conocimiento se expande, se valida y se contextualiza dentro de marcos teóricos.”
+
+🔗 [Definición extendida][INVESTIGACION] | [Índice][INDEX]
+
+[INVESTIGACION]: https://dle.rae.es/investigaci%C3%B3n
+
+</details>
+
 💡 **Enlaces de interés:**  
-🔗 [metodo360][M360] | [Inicio][INI] | [Índice][INDEX]
+🔗 [`cognición`][COGNI] | [Inicio][INI] | [Índice][INDEX]
 
 <!-- ============================== -->
 
@@ -373,7 +694,7 @@ _Describe aquello que ocurre entre sujetos, especialmente en el plano del entend
 <!-- ============================== -->
 
 💡 **Enlaces de interés:**  
-🔗 [metodo360][M360] | [Inicio][INI] | [Índice][INDEX]
+🔗 [`cognición`][COGNI] | [Inicio][INI] | [Índice][INDEX]
 
 <!-- ============================== -->
 
@@ -384,7 +705,7 @@ _Describe aquello que ocurre entre sujetos, especialmente en el plano del entend
 <!-- ============================== -->
 
 💡 **Enlaces de interés:**  
-🔗 [metodo360][M360] | [Inicio][INI] | [Índice][INDEX]
+🔗 [`cognición`][COGNI] | [Inicio][INI] | [Índice][INDEX]
 
 <!-- ============================== -->
 
@@ -395,7 +716,7 @@ _Describe aquello que ocurre entre sujetos, especialmente en el plano del entend
 <!-- ============================== -->
 
 💡 **Enlaces de interés:**  
-🔗 [metodo360][M360] | [Inicio][INI] | [Índice][INDEX]
+🔗 [`cognición`][COGNI] | [Inicio][INI] | [Índice][INDEX]
 
 <!-- ============================== -->
 
@@ -411,7 +732,7 @@ _Describe aquello que ocurre entre sujetos, especialmente en el plano del entend
 
 **Conceptos relacionados:**
 
-[`Sin relación`]()
+[`objetivo`](#objetivo)
 
 **Definición:**
 
@@ -469,7 +790,7 @@ _Del latín modulāri, significa modificar o ajustar gradualmente los componente
 
 - _En epistemología aplicada:_ “Un marco modular permite reconfigurar bloques conceptuales sin comprometer la integridad del sistema.”
 - _En filosofía de la ciencia:_ “Los modelos modulares facilitan la incorporación de nuevas teorías sin necesidad de rehacer todo el paradigma.”
-- _En marcos como metodo360:_ “Su arquitectura modular permite integrar nodos evolutivos según necesidades de refinamiento o expansión semántica.”
+- _En marcos como `cognición`:_ “Su arquitectura modular permite integrar nodos evolutivos según necesidades de refinamiento o expansión semántica.”
 
 🔗 [Definición extendida][MODULAR] | [Índice][INDEX]
 
@@ -478,7 +799,7 @@ _Del latín modulāri, significa modificar o ajustar gradualmente los componente
 </details>
 
 💡 **Enlaces de interés:**  
-🔗 [metodo360][M360] | [Inicio][INI] | [Índice][INDEX]
+🔗 [`cognición`][COGNI] | [Inicio][INI] | [Índice][INDEX]
 
 <!-- ============================== -->
 
@@ -494,7 +815,7 @@ _Del latín modulāri, significa modificar o ajustar gradualmente los componente
 
 **Conceptos relacionados:**
 
-[`Sin relación`](#)
+`Sin relación`
 
 **Definición:**
 
@@ -533,8 +854,31 @@ _Es un adjetivo que proviene del latín nitĭdus y se refiere a algo limpio, cla
 
 </details>
 
+### nodo
+
+<details>
+
+**Conceptos relacionados:**
+
+`Sin relación`
+
+**Definición:**
+
+_En un esquema o representación gráfica en forma de árbol, es cada uno de los puntos de origen de las distintas ramificaciones._
+
+**Contextos de uso:**
+
+- _En informática:_ "al representar una estructura de datos jerárquica como un árbol binario, cada elemento se denomina nodo."
+- _En marcos como `cognición`:_ "en un sistema de conocimiento distribuido, como una red semántica o un grafo de conceptos, cada nodo representa una unidad significativa (teoría, término, evidencia, autor) conectada a otros por relaciones epistémicas como causalidad, analogía o contradicción."
+
+🔗 [Definición extendida][NODO] | [Índice][INDEX]
+
+[NODO]: https://dle.rae.es/nodo
+
+</details>
+
 💡 **Enlaces de interés:**  
-🔗 [metodo360][M360] | [Inicio][INI] | [Índice][INDEX]
+🔗 [`cognición`][COGNI] | [Inicio][INI] | [Índice][INDEX]
 
 <!-- ============================== -->
 
@@ -545,7 +889,7 @@ _Es un adjetivo que proviene del latín nitĭdus y se refiere a algo limpio, cla
 <!-- ============================== -->
 
 💡 **Enlaces de interés:**  
-🔗 [metodo360][M360] | [Inicio][INI] | [Índice][INDEX]
+🔗 [`cognición`][COGNI] | [Inicio][INI] | [Índice][INDEX]
 
 <!-- ============================== -->
 
@@ -580,7 +924,7 @@ _Es un adjetivo que proviene del latín nitĭdus y se refiere a algo limpio, cla
 </details>
 
 💡 **Enlaces de interés:**  
-🔗 [metodo360][M360] | [Inicio][INI] | [Índice][INDEX]
+🔗 [`cognición`][COGNI] | [Inicio][INI] | [Índice][INDEX]
 
 <!-- ============================== -->
 
@@ -646,7 +990,9 @@ _Según la RAE, significa mejorar algo o hacerlo más perfecto, ya sea completá
 
 **Definición:**
 
-_Se puede entender como aquello que posee una estructura clara, organización lógica, y cuyos elementos están relacionados funcionalmente. Según las acepciones del término preciso en la RAE, lo estructurado tiende hacia la nitidez, concisión, exactitud, claridad y necesidad funcional. En otras palabras, estructurar es delimitar, integrar y dotar de propósito._
+_Precisión puede entenderse como la cualidad de aquello que presenta una estructura clara, una organización lógica y una relación funcional entre sus elementos.
+Según las acepciones del término preciso en la Real Academia Española, esta noción se asocia a nitidez, concisión, exactitud, claridad y necesidad funcional.
+En el contexto de la estructuración del conocimiento, la precisión implica delimitar con claridad, integrar coherentemente y dotar de propósito específico a los componentes que conforman un sistema o una idea._
 
 **Contextos de uso:**
 
@@ -666,7 +1012,7 @@ Esto revela que precisión establece: delimitación clara (frontera entre lo nec
 
 **Conceptos relacionados:**
 
-[`Sin relación`](#)
+`Sin relación`
 
 **Definición:**
 
@@ -706,7 +1052,7 @@ _Proviene del latín proposĭtum y designa el ánimo o intención deliberada de 
 </details>
 
 💡 **Enlaces de interés:**  
-🔗 [metodo360][M360] | [Inicio][INI] | [Índice][INDEX]
+🔗 [`cognición`][COGNI] | [Inicio][INI] | [Índice][INDEX]
 
 <!-- ============================== -->
 
@@ -717,7 +1063,7 @@ _Proviene del latín proposĭtum y designa el ánimo o intención deliberada de 
 <!-- ============================== -->
 
 💡 **Enlaces de interés:**  
-🔗 [metodo360][M360] | [Inicio][INI] | [Índice][INDEX]
+🔗 [`cognición`][COGNI] | [Inicio][INI] | [Índice][INDEX]
 
 <!-- ============================== -->
 
@@ -742,7 +1088,7 @@ _Según la RAE, es un adjetivo que describe aquello que puede rastrearse, es dec
 **Contextos de uso:**
 
 - _En epistemología:_ “Un marco conceptual rastreable facilita la reconstrucción del origen de sus categorías, permitiendo validar su evolución teórica.”
-- En sistemas dinámicos: “El modelo metodo360 propone una arquitectura rastreable, donde cada nodo puede conectarse con sus referentes, versiones y fundamentos.”
+- En sistemas dinámicos: “El modelo `cognición` propone una arquitectura rastreable, donde cada nodo puede conectarse con sus referentes, versiones y fundamentos.”
 
 🔗 [Definición extendida][RASTEABLE] | [Índice][INDEX]
 
@@ -765,7 +1111,7 @@ _Según la RAE, significa hacer más fino o más puro algo, ya sea mediante la e
 **Contextos de uso:**
 
 - _En epistemología:_ “El modelo propone refinar progresivamente los niveles de validación del conocimiento en función de nuevos criterios contextuales.”
-- _En diseño conceptual:_ “El metodo360 integra un mecanismo para refinar sus estructuras internas de forma iterativa, favoreciendo su evolución.”
+- _En diseño conceptual:_ “En `cognición` integra un mecanismo para refinar sus estructuras internas de forma iterativa, favoreciendo su evolución.”
 - _En procesos metodológicos:_ “Cada ciclo de retroalimentación sirve para refinar la hipótesis y ajustarla a los resultados.”
 
 🔗 [Definición extendida][REFINAR] | [Índice][INDEX]
@@ -780,7 +1126,7 @@ _Según la RAE, significa hacer más fino o más puro algo, ya sea mediante la e
 
 **Conceptos relacionados:**
 
-[`Sin relación`](#)
+[`estructurado`](#estructurado-da)
 
 **Definición:**
 
@@ -805,7 +1151,7 @@ Repositorio implica conservación y sistematización:
 
 **Conceptos relacionados:**
 
-[`Sin relación`](#)
+`Sin relación`
 
 **Definición:**
 
@@ -815,7 +1161,7 @@ _Según el Diccionario de la lengua española, es un adjetivo que describe aquel
 
 - _En diseño epistemológico:_ “Un marco conceptual reutilizable facilita la aplicación de principios comunes en distintos contextos de validación del conocimiento.”
 - _En desarrollo de software:_ “El código reutilizable permite construir nuevas aplicaciones sin reescribir funciones ya probadas.”
-- _En sistemas como metodo360:_ “Cada nodo debe ser reutilizable en diferentes niveles de abstracción, manteniendo coherencia y trazabilidad.”
+- _En sistemas como `cognición`:_ “Cada nodo debe ser reutilizable en diferentes niveles de abstracción, manteniendo coherencia y trazabilidad.”
 
 🔗 [Definición extendida][REUTILIZABLE] | [Índice][INDEX]
 
@@ -847,7 +1193,7 @@ _Del latín rigor, -ōris, puede entenderse como la propiedad o precisión extre
 </details>
 
 💡 **Enlaces de interés:**  
-🔗 [metodo360][M360] | [Inicio][INI] | [Índice][INDEX]
+🔗 [`cognición`][COGNI] | [Inicio][INI] | [Índice][INDEX]
 
 <!-- ============================== -->
 
@@ -902,8 +1248,31 @@ _Del latín significātus, es un sustantivo que designa el contenido, sentido o 
 
 </details>
 
+### síntesis
+
+<details>
+
+**Conceptos relacionados:**
+
+`Sin relación`
+
+**Definición:**
+
+_Composición de un todo mediante la reunión estructurada de sus partes; también, compendio que resume o articula información diversa en un marco coherente._
+
+**Contextos de uso:**
+
+- _En comunicación:_ "elaborar una síntesis implica condensar información extensa resaltando sus aspectos clave."
+- _En epistemología:_ "la síntesis adquiere un rol fundamental en teorías con enfoques integrales como los de Piaget o Habermas, la síntesis articula niveles cognitivos, sociales y lingüísticos para la validación del conocimiento."
+
+🔗 [Definición extendida][SINTESIS] | [Índice][INDEX]
+
+[SINTESIS]: https://dle.rae.es/síntesis
+
+</details>
+
 💡 **Enlaces de interés:**  
-🔗 [metodo360][M360] | [Inicio][INI] | [Índice][INDEX]
+🔗 [`cognición`][COGNI] | [Inicio][INI] | [Índice][INDEX]
 
 <!-- ============================== -->
 
@@ -919,7 +1288,7 @@ _Del latín significātus, es un sustantivo que designa el contenido, sentido o 
 
 **Conceptos relacionados:**
 
-[`Sin relación`](#)
+`Sin relación`
 
 **Definición:**
 
@@ -928,7 +1297,7 @@ _Del griego theōría, tiene múltiples acepciones según la RAE, pero en su nú
 **Contextos de uso:**
 
 - _En epistemología crítica:_ “Las teorías deben ser evaluadas no solo por su coherencia interna, sino por su capacidad de ser revisadas en función de nueva evidencia.”
-- _En modelos como metodo360_: “Cada teoría debe conectarse con procesos de validación dinámica, trazabilidad conceptual y posibilidad de refinamiento estructural.”
+- _En modelos como `cognición`_: “Cada teoría debe conectarse con procesos de validación dinámica, trazabilidad conceptual y posibilidad de refinamiento estructural.”
 - _En filosofía del conocimiento:_ “Una teoría es un marco conceptual que organiza y da sentido a fenómenos mediante principios coherentes.”
 
 🔗 [Definición extendida][TEORIA] | [Índice][INDEX]
@@ -961,7 +1330,7 @@ _Es la capacidad de identificar el origen y las etapas de un proceso, ya sea en 
 </details>
 
 💡 **Enlaces de interés:**  
-🔗 [metodo360][M360] | [Inicio][INI] | [Índice][INDEX]
+🔗 [`cognición`][COGNI] | [Inicio][INI] | [Índice][INDEX]
 
 <!-- ============================== -->
 
@@ -972,7 +1341,7 @@ _Es la capacidad de identificar el origen y las etapas de un proceso, ya sea en 
 <!-- ============================== -->
 
 💡 **Enlaces de interés:**  
-🔗 [metodo360][M360] | [Inicio][INI] | [Índice][INDEX]
+🔗 [`cognición`][COGNI] | [Inicio][INI] | [Índice][INDEX]
 
 <!-- ============================== -->
 
@@ -998,7 +1367,7 @@ _Según la Real Academia Española, es un adjetivo que describe aquello que pued
 
 - _En epistemología:_ “Un marco epistémico verificable establece criterios claros para validar el origen y coherencia de sus proposiciones.”
 - _En metodología científica:_ “La verificabilidad garantiza que una hipótesis pueda ser contrastada con evidencia empírica de forma replicable.”
-- En modelos como metodo360: “Cada nodo debe ser verificable mediante rutas de trazabilidad, validación intersubjetiva y revisión crítica.”
+- En modelos como `cognición`: “Cada nodo debe ser verificable mediante rutas de trazabilidad, validación intersubjetiva y revisión crítica.”
 
 🔗 [Definición extendida][VERIFICABLE] | [Índice][INDEX]
 
@@ -1006,8 +1375,54 @@ _Según la Real Academia Española, es un adjetivo que describe aquello que pued
 
 </details>
 
+### versión
+
+<details>
+
+**Conceptos relacionados:**
+
+`Sin relación`
+
+**Definición:**
+
+_Reformular, adaptar o reconstruir un contenido, teoría u obra, generando una nueva presentación basada en una fuente previa._
+
+**Contextos de uso:**
+
+- _En desarrollo de software:_ "una versión identifica el estado evolutivo de un programa o documento, permitiendo rastrear sus cambios y mejoras a lo largo del tiempo."
+- _En epistemología:_ "una versión puede representar una reconfiguración conceptual."
+
+🔗 [Definición extendida][VERSION] | [Índice][INDEX]
+
+[VERSION]: https://dle.rae.es/versión
+
+</details>
+
+### versionar
+
+<details>
+
+**Conceptos relacionados:**
+
+[`versión`](#versión)
+
+**Definición:**
+
+_Hacer una versión nueva de una obra._
+
+**Contextos de uso:**
+
+- _En desarrollo de software:_ "versionar implica generar distintas ediciones de un programa, manteniendo control de cambios evolutivos."
+- _En epistemología:_ "versionar una teoría implica reinterpretarla a la luz de nuevos marcos conceptuales"
+
+🔗 [Definición extendida][VERSIONAR] | [Índice][INDEX]
+
+[VERSIONAR]: https://dle.rae.es/versionar
+
+</details>
+
 💡 **Enlaces de interés:**  
-🔗 [metodo360][M360] | [Inicio][INI] | [Índice][INDEX]
+🔗 [`cognición`][COGNI] | [Inicio][INI] | [Índice][INDEX]
 
 <!-- ============================== -->
 
@@ -1018,7 +1433,7 @@ _Según la Real Academia Española, es un adjetivo que describe aquello que pued
 <!-- ============================== -->
 
 💡 **Enlaces de interés:**  
-🔗 [metodo360][M360] | [Inicio][INI] | [Índice][INDEX]
+🔗 [`cognición`][COGNI] | [Inicio][INI] | [Índice][INDEX]
 
 <!-- ============================== -->
 
@@ -1029,7 +1444,7 @@ _Según la Real Academia Española, es un adjetivo que describe aquello que pued
 <!-- ============================== -->
 
 💡 **Enlaces de interés:**  
-🔗 [metodo360][M360] | [Inicio][INI] | [Índice][INDEX]
+🔗 [`cognición`][COGNI] | [Inicio][INI] | [Índice][INDEX]
 
 <!-- ============================== -->
 
@@ -1040,7 +1455,7 @@ _Según la Real Academia Española, es un adjetivo que describe aquello que pued
 <!-- ============================== -->
 
 💡 **Enlaces de interés:**  
-🔗 [metodo360][M360] | [Inicio][INI] | [Índice][INDEX]
+🔗 [`cognición`][COGNI] | [Inicio][INI] | [Índice][INDEX]
 
 <!-- ============================== -->
 
@@ -1051,7 +1466,7 @@ _Según la Real Academia Española, es un adjetivo que describe aquello que pued
 <!-- ============================== -->
 
 💡 **Enlaces de interés:**  
-🔗 [metodo360][M360] | [Inicio][INI] | [Índice][INDEX]
+🔗 [`cognición`][COGNI] | [Inicio][INI] | [Índice][INDEX]
 
 <!-- ============================== -->
 
