@@ -9,7 +9,7 @@
 - **🔤 Id:** `3ad176e9-c47e-47b4-9f0b-cc55092cdb88`
 - **⚫ Estatus:** `Borrador`
 - **🔢 Versión:** `0.1.0`
-- **🏷️ Última Confirmación (commit)**: `---`
+- **🏷️ Última Confirmación (commit)**: `0bd50e3`
 - **🛤️ Rama Actual Git:** `main`
 - **📅 Fecha de Creación:** `2025-05-28`
 - **📅 Última Actualización:** `2025-06-30`
