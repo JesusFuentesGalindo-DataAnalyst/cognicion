@@ -158,18 +158,26 @@ knowledge-base/
 
 ```mermaid
 graph LR
-    A[knowledge-base] ---> B((🧠 Objeto de Estudio))
-    A --> C((🏛️ Línea Específica))
-    A --> D((📙 Investigación))
-    A --> E((🔬 Estudio))
-    A --> F((📥 Contribución))
-    B --> F
-    B --> E
-    B --> D
-    B --> C
-    E --> F
-    D --> E
+    A["knowledge-base"] ---> B(("🧠 Objeto de Estudio"))
+    B --> C(("🏛️ Línea Específica")) & n1["📥 Contribución"] & n4(("🔬 Estudio"))
+    E(("🔬 Estudio")) --> F["📥 Contribución"] & n2["📥 Contribución"]
+    D(("📙 Investigación")) --> E & n7(("🔬 Estudio"))
     C --> D
+    n4 --> n3["📥 Contribución"] & n6["📥 Contribución"]
+    A --> n5(("🧠 Objeto de Estudio"))
+    n5 --> n6 & n12(("📙 Investigación")) & n4
+    n7 --> n8["📥 Contribución"]
+    n9(("🔬 Estudio")) --> n10["📥 Contribución"]
+    n12 --> n9
+    n10 --> n8
+    A@{ shape: disk}
+    n1@{ shape: hex}
+    F@{ shape: hex}
+    n2@{ shape: hex}
+    n3@{ shape: hex}
+    n6@{ shape: hex}
+    n8@{ shape: hex}
+    n10@{ shape: hex}
 ```
 
 💡 **Enlaces de interés:**  
