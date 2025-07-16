@@ -12,7 +12,7 @@ Se permite a todo el mundo copiar y distribuir copias textuales de este document
 
 ## 📘 Contexto de esta licencia en `cognición`
 
-El objetivo de usar la licencia CC BY-SA 4.0 es garantizar que `cognición` siga siendo un recurso **libre, colaborativo y ético**, alineado con los [principios de (JFG) {AAA_Software}]((https://github.com/JesusFuentesGalindo#-principios-y-filosof%C3%ADa)):
+El objetivo de usar la licencia CC BY-SA 4.0 es garantizar que `cognición` siga siendo un recurso **libre, colaborativo y ético**, alineado con los [principios de (JFG) {AAA_Software}](https://github.com/JesusFuentesGalindo#-principios-y-filosof%C3%ADa):
 
 > 💡 Valor social como eje de diseño · Alfabetización estratégica · Acceso universal · Soberanía tecnológica
 
