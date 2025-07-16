@@ -4,19 +4,19 @@ Version 3, 29 June 2007
 
 Copyright (C) 2025 José de Jesús Fuentes Galindo  
 Desarrollado bajo la identidad (JFG) {AAA_Software}  
-Proyecto: `metodo360`
+Proyecto: `cognición`
 
 Se permite a todo el mundo copiar y distribuir copias textuales de este documento de licencia, pero no se permite modificarlo.
 
 ---
 
-## 📘 Contexto de esta licencia en `metodo360`
+## 📘 Contexto de esta licencia en `cognición`
 
-El objetivo de usar la licencia GPLv3 es garantizar que `metodo360` siga siendo un recurso **libre, colaborativo y ético**, alineado con los principios de (JFG) {AAA_Software}:
+El objetivo de usar la licencia GPLv3 es garantizar que `cognición` siga siendo un recurso **libre, colaborativo y ético**, alineado con los [principios de (JFG) {AAA_Software}](https://github.com/JesusFuentesGalindo#-principios-y-filosof%C3%ADa):
 
 > 💡 Automatización con propósito · Alfabetización estratégica · Acceso universal · Soberanía tecnológica
 
-Este archivo se refiere a la parte del proyecto `metodo360` que corresponde a **código fuente, scripts, automatizaciones y cualquier componente funcional** desarrollado para asistir la creación, organización y gestión de conocimiento dentro del marco de esta herramienta.
+Este archivo se refiere a la parte del proyecto `cognición` que corresponde a **código fuente, scripts, automatizaciones y cualquier componente funcional** desarrollado para asistir la creación, organización y gestión de conocimiento dentro del marco de esta herramienta.
 
 ---
 
@@ -60,11 +60,11 @@ No puedes aplicar términos legales ni medidas tecnológicas que restrinjan lega
 
 ## ✍️ Nota del autor
 
-Si mejoras `metodo360`, o construyes algo inspirado en él, por favor:
+Si mejoras `cognición`, o construyes algo inspirado en él, por favor:
 
 - Comparte tu trabajo para que otras personas también se beneficien.
 - Reconoce a quienes te ayudaron a llegar ahí.
 - Respeta el conocimiento como herramienta para la libertad y la colaboración.
 
-> 💡 Gracias por construir conocimiento libre y con propósito.
+> 💡 _Gracias por construir conocimiento libre y con propósito._
 > _— José de Jesús Fuentes Galindo (JFG) {AAA_Software}_

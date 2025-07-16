@@ -4,17 +4,17 @@ CC BY-SA 4.0
 
 Copyright (C) 2025 José de Jesús Fuentes Galindo  
 Desarrollado bajo la identidad (JFG) {AAA_Software}  
-Proyecto: `metodo360`
+Proyecto: `cognición`
 
 Se permite a todo el mundo copiar y distribuir copias textuales de este documento de licencia, pero no se permite modificarlo.
 
 ---
 
-## 📘 Contexto de esta licencia en `metodo360`
+## 📘 Contexto de esta licencia en `cognición`
 
-El objetivo de usar la licencia CC BY-SA 4.0 es garantizar que `metodo360` siga siendo un recurso **libre, colaborativo y ético**, alineado con los principios de (JFG) {AAA_Software}:
+El objetivo de usar la licencia CC BY-SA 4.0 es garantizar que `cognición` siga siendo un recurso **libre, colaborativo y ético**, alineado con los [principios de (JFG) {AAA_Software}]((https://github.com/JesusFuentesGalindo#-principios-y-filosof%C3%ADa)):
 
-> 💡 Valor social como eje de diseño · Alfabetización estratégica · Acceso universal
+> 💡 Valor social como eje de diseño · Alfabetización estratégica · Acceso universal · Soberanía tecnológica
 
 Este documento se aplica a todos los contenidos **no funcionales** de este repositorio, incluyendo:
 
@@ -42,7 +42,7 @@ Debes **dar crédito de forma adecuada**, proporcionar un enlace a la licencia e
 
 **Ejemplo recomendado de atribución:**
 
-> "Basado en materiales del proyecto `metodo360`, creado por José de Jesús Fuentes Galindo bajo la identidad (JFG) {AAA_Software}, licenciado bajo CC BY-SA 4.0."
+> "Basado en materiales del proyecto `cognición`, creado por José de Jesús Fuentes Galindo bajo la identidad (JFG) {AAA_Software}, licenciado bajo CC BY-SA 4.0."
 
 ### 🔁 Compartir igual (SA)
 
@@ -65,5 +65,5 @@ Este proyecto fue creado con la intención de **abrir caminos para que cualquier
 
 Al usar, adaptar o mejorar estos contenidos, ayudas a expandir una red de pensamiento colaborativo basada en la confianza, la claridad y la autonomía epistémica.
 
-> 💡 _Gracias por construir conocimiento libre y con propósito_.
+> 💡 _Gracias por construir conocimiento libre y con propósito._
 > _— José de Jesús Fuentes Galindo (JFG) {AAA_Software}_
